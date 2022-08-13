@@ -2,9 +2,23 @@
 
 FreeCad Kursus i Seniorhuset Ringe
 
+## Forord  
+
+Dette Repo er lavet for deltager i FreeCad 3D kursus hos Seniorhuset i Ringe, så deltager kan finde opgaverne når de er kommet hejm fra kursus og vil arbejde videre.
+
+## Nyttige Link
+
+* [FreeCad](https://www.freecadweb.org/)
+  * [Download](https://www.freecadweb.org/downloads.php)
+  * [Documentation index](https://wiki.freecad.org/)
+  * [Getting started](https://wiki.freecad.org/Getting_started)
+* FreeCad Tutorial
+  * [MangoJelly Solutions]()
+    * [FreeCAD 0.20 For Beginners](https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC)
+
 ## Preferences settings  
 
-Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences findewr i Edit menuen, Klik Edit -> Preferences  
+Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences finder I Edit menuen, Klik Edit -> Preferences  
 
 * General
   * General
