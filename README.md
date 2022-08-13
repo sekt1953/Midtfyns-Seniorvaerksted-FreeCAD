@@ -14,7 +14,7 @@ Dette Repo er lavet for deltager i FreeCad 3D kursus hos Seniorhuset i Ringe, s√
   * [Getting started](https://wiki.freecad.org/Getting_started)
   * [The FreeCAD manual](https://wiki.freecad.org/Manual)
 * FreeCad Tutorial
-  * [MangoJelly Solutions](https://www.youtube.com/c/MangoJellySolutions)
+  * [MangoJelly Solutions](https://www.youtube.com/c/MangoJellySolutions/playlists)
     * [FreeCAD 0.20 For Beginners](https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC)
 
 ## Preferences settings  
