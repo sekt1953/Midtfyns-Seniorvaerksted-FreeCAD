@@ -1,6 +1,8 @@
 # Opgave 001 Part Design  
 
-## SkabsSide  
+## Body_SkabsSide  
+
+![SkabsSider](./Images/001.000_PartDesign_skabsSider.png)
 
 ### Sketch
 
@@ -105,4 +107,25 @@
   * Length: **500,00mm (600-50-50)**
   * Occurrences: **21**
   * Update view: **Checked**
+
+## Body_SkabsBund
+
+![](./Images/001.100_PartDesign_skabsBund.png)
+
+### Skech003
+
+![](./Images/001.101_PartDesign_skabsBund_Sketch003.png)
+
+* Attachment  
+  * Support: **XZ_Plane001**  
+* Skabs bredde: 300mm
+* plade tykelse: 12mm
+* vinkel i højre og venstre: 90 degre
+
+### Pad001
+
+### Sketch004
+
+### Pocket002
+
 
