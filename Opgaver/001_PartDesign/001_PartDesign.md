@@ -65,7 +65,7 @@
 
 ### Pocket001 Sketch002  
 
-![Skabs Side Pocket001](./Images/001.006_PartDesign_skabsSide_Pocket001_Sketch002.png)
+![Skabs Side Pocket001 Sketch002](./Images/001.006_PartDesign_skabsSide_Pocket001_Sketch002.png)
 
 * Attachment  
   * Support: **DatumPlane**  
@@ -80,5 +80,29 @@
 
 ### Pocket001  
 
-![]()
-*
+![Skabs Side Pocket001](./Images/001.007_PartDesign_skabsSide_Pocket001.png)
+
+* Pocket parameter
+  * Type: **Dimension**
+  * Length: **6,5mm**
+  * Direction
+    * Direction/egde: **Sketch normal**
+    * Show direction: **Not Checked**
+    * Length along sketch normal: **Checked**
+  * Symmetric to plane: **Not Checked**
+  * Reversed: **Not Checked**
+  * Taper angle: **0,00 degree**
+  * Update view: **Checked**
+
+### LinearPattern  
+
+![Skabs Side LinearPattern](./Images/001.008_PartDesign_skabsSide_LinearPattern.png)  
+
+* LinearPattern parameters  
+  * Feature: **Pocket001**  
+  * Direction: **Horizontal sketch axis**
+  * Reverse direction: **Not Checked**
+  * Length: **500,00mm (600-50-50)**
+  * Occurrences: **21**
+  * Update view: **Checked**
+
