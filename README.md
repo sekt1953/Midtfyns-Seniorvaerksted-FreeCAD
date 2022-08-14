@@ -47,4 +47,4 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
 
 I opgave 001 skal vi tegne et køkken skab, i skabet skal vi tegne 1 Side_Plade, 1 Bund/Top_Plade, 1 bagbklædning og en Hylde.  
 I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet LinearPattern.  
-[Se flere detaljer her!]()
+[Se flere detaljer her!](./Opgaver/001_PartDesign/001_PartDesign.md)
