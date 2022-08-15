@@ -1,4 +1,4 @@
-# Seniorhuset_Ringe  
+# Midtfyns Seniorværksted
 
 FreeCad Kursus i Midtfyns Seniorværksted
 
