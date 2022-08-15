@@ -1,5 +1,15 @@
 # Opgave 001 Part Design  
 
+I den første opgave skal vi tegne et skab, der har følgende mål:  
+
+* Udvendig Højde: **600mm**  
+* Udvendig Bredde: **300mm**  
+* Udvendig Dybde: **300mm**  
+* Matriale tykkelse: **12mm**  
+* Bagbeklædning matriale tykkelse: **6mm**  
+* Bagbeklædningen skal forsænkes **10mm** fra bagkant  
+* Hjørne skal være 45° 
+
 ## Body_SkabsSide  
 
 ![SkabsSider](./Images/001.000_PartDesign_skabsSider.png)
@@ -12,7 +22,7 @@
   * Support: **XZ_Plane**  
 * Skabs højde: 600mm
 * plade tykelse: 12mm
-* vinkel i top og bund: 90°
+* vinkel i top og bund: 45°
 
 ### Pad
 
