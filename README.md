@@ -1,6 +1,6 @@
 # Midtfyns Seniorværksted
 
-FreeCad Kursus i Midtfyns Seniorværksted
+FreeCad Kursus hos Midtfyns Seniorværksted
 
 ## Forord  
 
