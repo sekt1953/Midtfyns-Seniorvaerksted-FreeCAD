@@ -1,10 +1,10 @@
-# Midtfyns Seniorværksted
+# Midtfyns Seniorværksted FreeCad Kursus
 
 FreeCad Kursus hos Midtfyns Seniorværksted
 
 ## Forord  
 
-Dette Repo er lavet for deltager i FreeCad 3D kursus hos Seniorhuset i Ringe, så deltager kan finde opgaverne når de er kommet hejm fra kursus og vil arbejde videre.
+Dette Repo er lavet for deltager i FreeCad 3D kursus hos Midtfyns Seniorværksted i Ringe, så deltager kan finde opgaverne når de er kommet hejm fra kursus og vil arbejde videre.
 
 ## Nyttige Link
 
@@ -23,7 +23,7 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
 
 * General
   * General
-    * Size of toolbar icons: **Large (32px)**
+    * Size of toolbar icons: **Medium (24px)**
     * Tree view mode: **Combo View**
     * Auto load module after start up: **Part Design**
   * Unit
@@ -34,8 +34,7 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
     * Marker size: **15px**
   * Navigation
     * 3D Navigation: **Blender**
-    * ![](./Opgaver/MouseBlender.png)
-
+    * ![mouse selection](./Opgaver/MouseBlender.png) 
 * Part Design
   * General
     * Automatically check model after boolean operation: **Checked**
