@@ -32,6 +32,10 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
 * Display
   * 3d View
     * Marker size: **15px**
+  * Navigation
+    * 3D Navigation: **Blender**
+    * ![](./Opgaver/MouseBlender.png)
+
 * Part Design
   * General
     * Automatically check model after boolean operation: **Checked**
