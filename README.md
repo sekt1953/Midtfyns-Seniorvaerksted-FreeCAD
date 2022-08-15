@@ -1,6 +1,6 @@
 # Seniorhuset_Ringe  
 
-FreeCad Kursus i Seniorhuset Ringe
+FreeCad Kursus i Midtfyns Seniorværksted
 
 ## Forord  
 
