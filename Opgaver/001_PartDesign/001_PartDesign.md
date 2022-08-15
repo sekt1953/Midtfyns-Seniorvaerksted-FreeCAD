@@ -10,6 +10,21 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 * Bagbeklædningen skal forsænkes **10mm** fra bagkant  
 * Hjørne skal være 45° 
 
+## Opret ny opgave
+
+* Klik på 
+  * File -> New
+
+### Gem opgaven i ./Dokumenter/FreeCAD/Opgave_001
+
+* File -> Save As
+  * Vælg Dokument mappen
+    * Klik på **Create New Folder**
+      * Navngiv den nye Folder **FreeCAD**
+      * File name: Opgave_001
+      * ![Folder](./Images/OpgaveFolder.png)
+      * Klik **Save**
+
 ## Body_SkabsSide  
 
 ![SkabsSider](./Images/001.000_PartDesign_skabsSider.png)
