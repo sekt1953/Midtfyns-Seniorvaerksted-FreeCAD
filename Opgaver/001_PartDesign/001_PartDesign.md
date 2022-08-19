@@ -35,9 +35,9 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 
 * Attachment  
   * Support: **XZ_Plane**  
-* Skabs højde: 600mm
-* plade tykelse: 12mm
-* vinkel i top og bund: 45°
+* [Skabs højde: 600mm](https://wiki.freecad.org/Sketcher_ConstrainDistanceX)
+* [plade tykelse: 12mm](https://wiki.freecad.org/Sketcher_ConstrainDistanceY)
+* [vinkel i top og bund: 45°](https://wiki.freecad.org/Sketcher_ConstrainAngle)
 
 ### [![PartDesign_Pad_Images](../../Images/PartDesign_Pad.svg) PartDesign_Pad - Pad](https://wiki.freecad.org/PartDesign_Pad)
 
