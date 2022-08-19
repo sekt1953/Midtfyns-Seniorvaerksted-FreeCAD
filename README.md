@@ -81,11 +81,11 @@ I opgaverne som følger i dette afsnit skal vi bruge PartDesign & Sketcher Workb
 ### [Opgave 001, Klik Her](./Opgaver/001_PartDesign/001_PartDesign.md)
 
 I opgave 001 skal vi tegne et køkken skab, i skabet skal vi tegne 1 Side_Plade, 1 Bund/Top_Plade, 1 bagbklædning og en Hylde.  
-I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet LinearPattern.  
+I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet LinearPattern.
 
-I denne opgave skal vi arbejde med følgende tools:
+**I denne opgave skal vi arbejde med følgende tools:**
 
-* [![Standard_menu_tools.png](./Images/Standard_menu_tools.png) <br> Standardmenuen er sammensat af 7 undermenuer. Hver undermenu har en dedikeret side. Bare klik på et af navnene nedenfor.](https://wiki.freecadweb.org/Std_Base)
+* [![Standard_menu_tools.png](./Images/Standard_menu_tools.png)  Standardmenuen <br> er sammensat af 7 undermenuer. Hver undermenu har en dedikeret side.](https://wiki.freecadweb.org/Std_Base)
   * [Std File Menu](https://wiki.freecadweb.org/Std_File_Menu)
     * [![Std New](./Images/Std_New.svg) Std New: Som opretter et nyt tomt dokument og gør det til det aktive dokument.](https://wiki.freecadweb.org/Std_New)
     * [![Std Save](./Images/Std_Save.svg) Std Save: Som gemmer det aktive dokument.](https://wiki.freecadweb.org/Std_Save)
