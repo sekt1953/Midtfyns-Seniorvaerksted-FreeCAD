@@ -44,16 +44,36 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
   * General
     * Auto remove redundants: **Checked**
 
-FreeCAD's interface er beskrevet her
+## FreeCAD's interface:
 
-![FreeCAD Interface](https://wiki.freecad.org/File:FreeCAD_interface_base_divisions.svg)
+![FreeCAD Interface](./Images/FreeCAD_interface_base_divisions.svg)
 
+Applikationens hovedvindue kan groft opdeles i 11 sektioner:
+
+1. Hovedvisningsområdet, som kan indeholde forskellige faneblade
+2. 3D-visningen, normalt indlejret i hovedvisningsområdet
+3. Den øverste del af kombinationsvisningen, som inkluderer trævisningen og opgavepanelet
+4. Den nederste del af kombinationsvisningen, som inkluderer egenskabseditoren
+5. Valgvisningen
+6. Rapportvisningen
+7. Python-konsollen
+8. Statuslinjen
+9. Værktøjslinjeområdet, se følgende oplysninger på værktøjslinjerne
+10. Workbench-vælgeren, som i sig selv er en værktøjslinje
+11. Standardmenuen
+
+SE den fulde vejledning her: [FreeCAD Interface](https://wiki.freecad.org/Interface)
 
 ## PartDesign Workbench & Sketcher Workbench 
 
 I opgaverne som følger i dette afsnit skal vi bruge PartDesign & Sketcher Workbench, du kan se mere om disse værktøjer her:
 * [PartDesign Workbench](https://wiki.freecad.org/PartDesign_Workbench)
 * [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
+
+### Tutorials
+
+* [Oprettelse af en simpel del med PartDesign](https://wiki.freecad.org/Creating_a_simple_part_with_PartDesign)
+* [Grundlæggende deldesigntutorial](https://wiki.freecad.org/Basic_Part_Design_Tutorial)
 
 ### Opgave 001
 
