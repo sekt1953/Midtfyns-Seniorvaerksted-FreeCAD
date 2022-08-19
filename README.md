@@ -1,4 +1,4 @@
-# Midtfyns Seniorværksted FreeCad Kursus
+# Midtfyns Seniorværksted - FreeCad Kursus
 
 FreeCad Kursus 2022-2023, hos [Midtfyns Seniorværksted](https://goo.gl/maps/WXFCVKzskd565Whi8)
 
@@ -78,11 +78,10 @@ I opgaverne som følger i dette afsnit skal vi bruge PartDesign & Sketcher Workb
 * [Oprettelse af en simpel del med PartDesign](https://wiki.freecad.org/Creating_a_simple_part_with_PartDesign)
 * [Grundlæggende deldesigntutorial](https://wiki.freecad.org/Basic_Part_Design_Tutorial)
 
-### Opgave 001
+### [Opgave 001, Klik Her](./Opgaver/001_PartDesign/001_PartDesign.md)
 
 I opgave 001 skal vi tegne et køkken skab, i skabet skal vi tegne 1 Side_Plade, 1 Bund/Top_Plade, 1 bagbklædning og en Hylde.  
 I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet LinearPattern.  
-[Se Opgaven her!](./Opgaver/001_PartDesign/001_PartDesign.md)
 
 I denne opgave skal vi arbejde med følgende tools:
 
