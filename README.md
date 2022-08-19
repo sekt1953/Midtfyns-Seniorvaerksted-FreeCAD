@@ -4,7 +4,7 @@ FreeCad Kursus hos Midtfyns Seniorværksted
 
 ## Forord  
 
-Dette Repo er lavet for deltager i FreeCad 3D kursus hos Midtfyns Seniorværksted i Ringe, så deltager kan finde opgaverne når de er kommet hejm fra kursus og vil arbejde videre.
+Dette Repo er lavet for deltager i FreeCad 3D kursus hos Midtfyns Seniorværksted i Ringe, sådan deltager kan finde opgaverne når de er kommet hjem fra kursus og vil arbejde videre.
 
 ## Nyttige Link
 
