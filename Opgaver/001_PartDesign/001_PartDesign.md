@@ -29,7 +29,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 
 ![SkabsSider](./Images/001.000_PartDesign_skabsSider.png)
 
-### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) Sketcher_New - Sketch ](https://wiki.freecad.org/Sketcher_NewSketch)
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) Sketcher_New - Sketch](https://wiki.freecad.org/Sketcher_NewSketch)
 
 ![Skabs Side Sketch](./Images/001.001_PartDesign_skabsSide_Sketch.png)
 
@@ -134,13 +134,15 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Occurrences: **21**
   * Update view: **Checked**
 
-## Body_SkabsBund
 
-![](./Images/001.100_PartDesign_skabsBund.png)
 
-### Skech003
+## [![PartDesign_Body_Images](../../Images/PartDesign_Body.svg) PartDesign_Body - SkabsBund](https://wiki.freecad.org/PartDesign_Body)  
 
-![](./Images/001.101_PartDesign_skabsBund_Sketch003.png)
+![PartDesign_skabsBund.png](./Images/001.100_PartDesign_skabsBund.png)
+
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) Sketcher_New - Skech003](https://wiki.freecad.org/Sketcher_NewSketch)
+
+![skabsBund](./Images/001.101_PartDesign_skabsBund_Sketch003.png)
 
 * Attachment  
   * Support: **XZ_Plane001**  
@@ -148,7 +150,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 * plade tykelse: **12mm**
 * vinkel i højre og venstre: **45°**
 
-### Pad001
+### [![PartDesign_Pad_Images](../../Images/PartDesign_Pad.svg) PartDesign_Pad - Pad001](https://wiki.freecad.org/PartDesign_Pad)
 
 ![](./Images/001.102_PartDesign_skabsBund_Pad001.png)
 
@@ -164,7 +166,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Taper angle: **0,00°**
   * Update view: **Checked**
 
-### Pocket002 Sketch004
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) Sketcher_New - Pocket002 Sketch004](https://wiki.freecad.org/Sketcher_NewSketch)
 
 ![](./Images/001.103_PartDesign_skabsBund_Pocket002_Sketch004.png)
 
@@ -175,7 +177,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * bagbeklædning afstand fra bagkant: **10mm**
   * bagbeklæbnings tykkelse: **6mm**
 
-### Pocket002
+### [![Pocket images](../../Images/PartDesign_Pocket.svg) PartDesign_Pocket - Pocket002](https://wiki.freecad.org/PartDesign_Pocket) 
 
 ![](./Images/001.104_PartDesign_skabsBund_Pocket002.png)
 
