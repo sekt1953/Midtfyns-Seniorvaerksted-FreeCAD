@@ -1,10 +1,12 @@
 # Midtfyns Seniorværksted FreeCad Kursus
 
-FreeCad Kursus hos Midtfyns Seniorværksted
+FreeCad Kursus 2022-2023, hos [Midtfyns Seniorværksted](https://goo.gl/maps/WXFCVKzskd565Whi8)
 
 ## Forord  
 
-Dette Repo er lavet for deltager i FreeCad 3D kursus hos Midtfyns Seniorværksted i Ringe, sådan deltager kan finde opgaverne når de er kommet hjem fra kursus og vil arbejde videre.
+Dette Repo er lavet for deltager i FreeCad 3D kursus hos Midtfyns Seniorværksted i Ringe.  
+Sådan at deltager i vores kursus, kan finde opgaverne når de er kommet hjem fra kursus, og gerne vil arbejde videre; men alle som finder denne sider er velkommen til at lære fra den.  
+Svenn-Erik K. Thomsen
 
 ## Nyttige Link
 
