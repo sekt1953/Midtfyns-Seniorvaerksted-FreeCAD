@@ -17,6 +17,26 @@ Dette Repo er lavet for deltager i FreeCad 3D kursus hos Midtfyns Seniorværkste
   * [MangoJelly Solutions](https://www.youtube.com/c/MangoJellySolutions/playlists)
     * [FreeCAD 0.20 For Beginners](https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC)
 
+## FreeCAD's interface
+
+![FreeCAD Interface](./Images/FreeCAD_interface_base_divisions.svg)
+
+Applikationens hovedvindue kan groft opdeles i 11 sektioner:
+
+1. Hovedvisningsområdet, som kan indeholde forskellige faneblade
+2. 3D-visningen, normalt indlejret i hovedvisningsområdet
+3. Den øverste del af kombinationsvisningen, som inkluderer trævisningen og opgavepanelet
+4. Den nederste del af kombinationsvisningen, som inkluderer egenskabseditoren
+5. Valgvisningen
+6. Rapportvisningen
+7. Python-konsollen
+8. Statuslinjen
+9. Værktøjslinjeområdet, se følgende oplysninger på værktøjslinjerne
+10. Workbench-vælgeren, som i sig selv er en værktøjslinje
+11. Standardmenuen
+
+SE den fulde vejledning her: [FreeCAD Interface](https://wiki.freecad.org/Interface)
+
 ## Preferences settings  
 
 Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences finder I Edit menuen, Klik Edit -> Preferences  
@@ -43,26 +63,6 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
 * Sketcher
   * General
     * Auto remove redundants: **Checked**
-
-## FreeCAD's interface
-
-![FreeCAD Interface](./Images/FreeCAD_interface_base_divisions.svg)
-
-Applikationens hovedvindue kan groft opdeles i 11 sektioner:
-
-1. Hovedvisningsområdet, som kan indeholde forskellige faneblade
-2. 3D-visningen, normalt indlejret i hovedvisningsområdet
-3. Den øverste del af kombinationsvisningen, som inkluderer trævisningen og opgavepanelet
-4. Den nederste del af kombinationsvisningen, som inkluderer egenskabseditoren
-5. Valgvisningen
-6. Rapportvisningen
-7. Python-konsollen
-8. Statuslinjen
-9. Værktøjslinjeområdet, se følgende oplysninger på værktøjslinjerne
-10. Workbench-vælgeren, som i sig selv er en værktøjslinje
-11. Standardmenuen
-
-SE den fulde vejledning her: [FreeCAD Interface](https://wiki.freecad.org/Interface)
 
 ## PartDesign Workbench & Sketcher Workbench
 
