@@ -8,11 +8,11 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 * Matriale tykkelse: **12mm**  
 * Bagbeklædning matriale tykkelse: **6mm**  
 * Bagbeklædningen skal forsænkes **10mm** fra bagkant  
-* Hjørne skal være 45° 
+* Hjørne skal være 45°
 
 ## Opret ny opgave
 
-* Klik på 
+* Klik på
   * File -> New
 
 ### Gem opgaven i ./Dokumenter/FreeCAD/Opgave_001
@@ -25,11 +25,11 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
       * ![Folder](./Images/OpgaveFolder.png)
       * Klik **Save**
 
-## Body_SkabsSide  
+## ![Create Body images](../../Images/PartDesign_Body.svg) [Body_SkabsSide](https://wiki.freecad.org/PartDesign_Body)  
 
 ![SkabsSider](./Images/001.000_PartDesign_skabsSider.png)
 
-### Sketch
+### ![Sketcher image](../../Images/Sketcher_NewSketch.svg) [Sketch](https://wiki.freecad.org/Sketcher_NewSketch)
 
 ![Skabs Side Sketch](./Images/001.001_PartDesign_skabsSide_Sketch.png)
 
@@ -39,7 +39,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 * plade tykelse: 12mm
 * vinkel i top og bund: 45°
 
-### Pad
+### ![Pad images](../../Images/PartDesign_Pad.svg) [Pad](https://wiki.freecad.org/PartDesign_Pad)
 
 ![Skabs Side Pad](./Images/001.002_PartDesign_skabsSide_Pad.png)
 
@@ -55,7 +55,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Taper angle: **0,00°**
   * Update view: **Checked**
 
-### Pocket Sketch001
+### ![Sketcher image](../../Images/Sketcher_NewSketch.svg) Pocket Sketch001
 
 ![Skabs Side Pocket](./Images/001.003_PartDesign_skabsSide_Pocket_Sketch.png)
 
@@ -66,7 +66,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * bagbeklædning afstand fra bagkant: **10mm**
   * bagbeklæbnings tykkelse: **6mm**
 
-### Pocket  
+### ![Pocket images](../../Images/PartDesign_Pocket.svg) [Pocket](https://wiki.freecad.org/PartDesign_Pocket) 
 
 ![Skabs Side Pocket](./Images/001.004_PartDesign_skabsSide_Pocket.png)
 
@@ -80,7 +80,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Reversed: **Checked**
   * Update view: **Checked**
 
-### DatumPlane  
+### ![DatumPlane image](../../Images/PartDesign_Plane.svg) [DatumPlane](https://wiki.freecad.org/PartDesign_Plane) 
 
 ![Skabs Side Datumplane](./Images/001.005_PartDesign_skabsSide_DatumPlane.png)
 
@@ -91,7 +91,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
     * y: **0,00mm**
     * z: **12,00mm**
 
-### Pocket001 Sketch002  
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg)](https://wiki.freecad.org/PartDesign_NewSketch) Pocket001 Sketch002  
 
 ![Skabs Side Pocket001 Sketch002](./Images/001.006_PartDesign_skabsSide_Pocket001_Sketch002.png)
 
@@ -106,7 +106,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Hulcenter afstand mellem yderste huller :  **300-10-6-30-30 = 224mm**
   * HulDiameter: **3mm**
 
-### Pocket001  
+### ![](../../Images/PartDesign_Pocket.svg) [Pocket001](https://wiki.freecad.org/PartDesign_Pocket) 
 
 ![Skabs Side Pocket001](./Images/001.007_PartDesign_skabsSide_Pocket001.png)
 
