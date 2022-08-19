@@ -55,7 +55,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Taper angle: **0,00°**
   * Update view: **Checked**
 
-### [![Sketcher_NewSketch_Image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Pocket_Sketch001](https://wiki.freecad.org/Sketcher_NewSketch)
+### [![Sketcher_NewSketch_Image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Sketch001](https://wiki.freecad.org/Sketcher_NewSketch)
 
 ![Skabs Side Pocket](./Images/001.003_PartDesign_skabsSide_Pocket_Sketch.png)
 
@@ -91,7 +91,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
     * y: **0,00mm**
     * z: **12,00mm**
 
-### [![Sketcher_NewSketch_Image](../../Images/Sketcher_NewSketch.svg)](https://wiki.freecad.org/PartDesign_NewSketch) PartDesign NewSketch - Pocket001_Sketch002  
+### [![Sketcher_NewSketch_Image](../../Images/Sketcher_NewSketch.svg)](https://wiki.freecad.org/PartDesign_NewSketch) PartDesign NewSketch - Sketch002  
 
 ![Skabs Side Pocket001 Sketch002](./Images/001.006_PartDesign_skabsSide_Pocket001_Sketch002.png)
 
@@ -166,7 +166,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Taper angle: **0,00°**
   * Update view: **Checked**
 
-### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Pocket002 Sketch004](https://wiki.freecad.org/Sketcher_NewSketch)
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Sketch004](https://wiki.freecad.org/Sketcher_NewSketch)
 
 ![](./Images/001.103_PartDesign_skabsBund_Pocket002_Sketch004.png)
 
@@ -195,7 +195,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 
 ![SkabsBagbekl%C3%A6dning.png](./Images/001.200_PartDesign_SkabsBagbekl%C3%A6dning.png)
 
-### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Pad002_Sketch005](https://wiki.freecad.org/Sketcher_NewSketch)
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Sketch005](https://wiki.freecad.org/Sketcher_NewSketch)
 
 ![](./Images/001.201_PartDesign_SkabsBagbekl%C3%A6dning_Pad002_Sketch005.png)
 
@@ -225,9 +225,9 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
 
 ![SkabsHylde.png](./Images/001.300_PartDesign_SkabsHylde.png)  
 
-### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Pad003 Sketch005](https://wiki.freecad.org/Sketcher_NewSketch)
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign_NewSketch - Sketch006](https://wiki.freecad.org/Sketcher_NewSketch)
 
-![](./Images/001.301_PartDesign_SkabsHylde_Pad003_Sketch006.png)
+![Sketch006.png](./Images/001.301_PartDesign_SkabsHylde_Pad003_Sketch006.png)
 
 * Attachment  
   * Support: **XZ_Plane003**  
@@ -251,7 +251,7 @@ I den første opgave skal vi tegne et skab, der har følgende mål:
   * Taper angle: **0,00°**
   * Update view: **Checked**
 
-### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Pocket003 Sketch007](https://wiki.freecad.org/Sketcher_NewSketch)
+### [![Sketcher image](../../Images/Sketcher_NewSketch.svg) PartDesign NewSketch - Sketch007](https://wiki.freecad.org/Sketcher_NewSketch)
 
 ![Sketch007.png](./Images/001.303_PartDesign_SkabsHylde_Pocket003_Sketch007.png)
 
