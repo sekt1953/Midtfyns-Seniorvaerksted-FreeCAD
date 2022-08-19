@@ -44,6 +44,11 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
   * General
     * Auto remove redundants: **Checked**
 
+FreeCAD's interface er beskrevet her
+
+![FreeCAD Interface](https://wiki.freecad.org/File:FreeCAD_interface_base_divisions.svg)
+
+
 ## PartDesign Workbench & Sketcher Workbench 
 
 I opgaverne som følger i dette afsnit skal vi bruge PartDesign & Sketcher Workbench, du kan se mere om disse værktøjer her:
