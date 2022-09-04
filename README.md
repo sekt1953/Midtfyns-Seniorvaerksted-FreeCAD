@@ -66,6 +66,26 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
   * General
     * Auto remove redundants: **Checked**
 
+## View Toolbars settings:
+
+* View
+  * Toolbars
+    * File: **Checked**
+    * Workbench: **Checked**
+    * Macro
+    * View: **Checked**
+    * Structure
+    * Part Design Helper: **Checked**
+    * Part Design Modeling: **Checked**
+    * Measure
+    * Auto-Created Macro Toolbar
+    * Sketcher: **Checked**
+    * Sketcher geometries: **Checked**
+    * Sketcher constraints: **Checked**
+    * Sketcher tools
+    * Sketcher B-spline tools
+    * Sketcher virtual space
+
 ## PartDesign Workbench & Sketcher Workbench
 
 I opgaverne som følger i dette afsnit skal vi bruge PartDesign & Sketcher Workbench, du kan se mere om disse værktøjer her:
