@@ -2,6 +2,8 @@
 
 I denne opgave skal vi tegne en aluminium profil:  
 
+![Opgave_002.png](../../Images/Opgave_002.png)
+
 ## Opret ny opgave
 
 * Klik på
