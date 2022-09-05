@@ -79,4 +79,4 @@ I denne opgave skal vi tegne en aluminium profil:
 
 ### Step 009
 
-* ![AluProfile Step 009](./Images/Step_009b.png)  
+* ![AluProfile Step 009](./Images/Step_009c.png)  
