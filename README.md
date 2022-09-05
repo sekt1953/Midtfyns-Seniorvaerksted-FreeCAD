@@ -130,9 +130,4 @@ I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet Li
 
 I Opgave 002 skal vi tegne en AluminiumsProfil so vist herunder
 
-* []()
-
-* [![Sketcher_NewSketch.svg](./Images/Sketcher_NewSketch.svg) Sketcher Workbench](https://wiki.freecadweb.org/PartDesign_Workbench)
-*
-
-
+* ![Opgave_002.png](./Images/Opgave_002.png)
