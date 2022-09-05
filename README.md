@@ -128,6 +128,6 @@ I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet Li
 
 ### [Opgave 002, AluProfile Klik Her](./Opgaver/002_PartDesign-AluProfile/002_PartDesign-AluProfile.md)
 
-I Opgave 002 skal vi tegne en AluminiumsProfil so vist herunder
+I opgave 002 skal vi tegne en AluminiumsProfil so vist herunder
 
-* ![Opgave_002.png](./Images/Opgave_002.png)
+* [![Opgave_002.png](./Images/Opgave_002.png)](./Opgaver/002_PartDesign-AluProfile/002_PartDesign-AluProfile.md)
