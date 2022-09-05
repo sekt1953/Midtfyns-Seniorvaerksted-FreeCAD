@@ -56,7 +56,7 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
     * Marker size: **15px**
   * Navigation
     * 3D Navigation: **Blender**
-    * ![mouse selection](./Opgaver/MouseBlender.png)
+    * ![mouse selection](./Images/MouseBlender.png)
 * Part Design
   * General
     * Automatically check model after boolean operation: **Checked**
@@ -125,3 +125,14 @@ I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet Li
   * Transformation tools
     * [![Mirrored](./Images/PartDesign_Mirrored.svg) Mirrored: spejler en eller flere funktioner.](https://wiki.freecadweb.org/PartDesign_Mirrored)
     * [![Linear Pattern](./Images/PartDesign_LinearPattern.svg) Lineært mønster: opretter et lineært mønster af en eller flere funktioner.](https://wiki.freecadweb.org/PartDesign_LinearPattern)
+
+### [Opgave 002, AluProfile Klik Her](./Opgaver/002_PartDesign-AluProfile/002_PartDesign-AluProfile.md)
+
+I Opgave 002 skal vi tegne en AluminiumsProfil so vist herunder
+
+* []()
+
+* [![Sketcher_NewSketch.svg](./Images/Sketcher_NewSketch.svg) Sketcher Workbench](https://wiki.freecadweb.org/PartDesign_Workbench)
+*
+
+
