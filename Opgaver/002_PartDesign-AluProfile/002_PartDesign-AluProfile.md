@@ -55,8 +55,16 @@ I denne opgave skal vi tegne en aluminium profil:
 
 ### Step 003 Tegn med Sketcher's Geometry værktøjer
 
-* ![AluProfile Step 003](./Images/Step_003.png)
+* ![AluProfile Step 003](./Images/Step_003b.png)
 
 ### Step 004 Tegn med Sketcher's Geometry værktøjer
 
-* ![AluProfile Step 003](./Images/Step_004.png)  
+* ![AluProfile Step 004](./Images/Step_004b.png)  
+
+### Step 005 Tegn med Sketcher's Geometry værktøjer
+
+* ![AluProfile Step 004](./Images/Step_005.png)  
+
+### Step 006 Tegn med Sketcher's Geometry værktøjer
+
+* ![AluProfile Step 004](./Images/Step_006.png)  
