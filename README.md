@@ -57,6 +57,10 @@ Der er indstillinger i FreeCad der kan være smarte at tilpasse, Preferences fin
   * Navigation
     * 3D Navigation: **Blender**
     * ![mouse selection](./Images/MouseBlender.png)
+  * Colors
+    * Background color
+      * Simple color
+        * HTML: #7d8ca3
 * Part Design
   * General
     * Automatically check model after boolean operation: **Checked**
