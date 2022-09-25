@@ -138,4 +138,4 @@ I opgave 002 skal vi tegne en AluminiumsProfil so vist herunder
 
 # 3D-Printer
 
-* [Y_Axis-MotorMount](./3D-Printer/Oph%C3%A6ng_001/README.md)
+* [Y_Axis-MotorMount](./3D-Printer/Y_Axis/README.md)
