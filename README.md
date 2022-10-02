@@ -136,6 +136,12 @@ I opgave 002 skal vi tegne en AluminiumsProfil so vist herunder
 
 * [![Opgave_002.png](./Images/Opgave_002.png)](./Opgaver/002_PartDesign-AluProfile/002_PartDesign-AluProfile.md)
 
+### [Opgave 003, Sketcher Symmetry og Sketcher ConstrainSymmetric](./Opgaver/003_Symmetry_og_Symmetrical_Constraint/README.md)
+
+Her skal vi prøve kræfter med Sketcher Symmetry og Sketcher ConstrainSymmetric, vi vil prøve at tegne vores alu profil ved hjælp af mirror og constrain.
+
+[Klik her for mere](./Opgaver/003_Symmetry_og_Symmetrical_Constraint/README.md)
+
 # 3D-Printer
 
 ![3D-Printer](./Images/3D-Printer.png)
