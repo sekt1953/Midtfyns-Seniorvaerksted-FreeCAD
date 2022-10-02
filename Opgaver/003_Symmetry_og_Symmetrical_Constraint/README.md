@@ -52,3 +52,19 @@ Når vi bruger denne fremgangs måde opdager vi at to andre værktøjer også er
 |![Sketch-Symmetry.png](./Images/Sketch/Sketch-Symmetry.png)|![Sketch-Symmetry-003](./Images/Sketch/Sketch-Symmetry-ConstrainBlock.png)|
 
 Bruger vi denne fremgangsmåde skal vi kun bruge ![Sketcher_ConstrainBlock.svg](./Images/Icon/Sketcher_ConstrainBlock.png) Sketcher ConstrainBlock for at opnå en fully constrained sketch.
+
+### 3. Sketcher Symmetry over Y- & X-Axis
+
+| Sketch-Symmetry over Y_Axis | Sketch-Symmetry over X_Axis |
+| --- | --- |
+|![Sketch-Symmetry-ConstrainBlock_Y.png](./Images/Sketch/Sketch-Symmetry-ConstrainBlock_Y.png)|![](./Images/Sketch/Sketch-Symmetry-ConstrainBlock_YX.png)|
+
+### 4. Sketcher Symmetry over construction geometry
+
+| Sketch-Symmetry over construction geometry |
+| --- |
+|![Sketch-Symmetry-ConstrainBlock_20x40.png](./Images/Sketch/Sketch-Symmetry-ConstrainBlock_20x40.png)|
+
+### 5. Pad Symmetry 
+
+![Sketch-Symmetry-ConstrainBlock_Y.png](./Images/Sketch/Pad-Symmetry-ConstrainBlock_20x40.png)
