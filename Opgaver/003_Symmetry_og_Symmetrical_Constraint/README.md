@@ -49,6 +49,6 @@ Når vi bruger denne fremgangs måde opdager vi at to andre værktøjer også er
 
 | Sketcher Symmetry | Sketcher ConstrainBlock |
 | --- | --- |
-|![Sketch-Symmetry.png](./Images/Sketch-Symmetry.png)|![Sketch-Symmetry-003](./Images/Sketch-Symmetry-ConstrainBlock.png)|
+|![Sketch-Symmetry.png](./Images/Sketch/Sketch-Symmetry.png)|![Sketch-Symmetry-003](./Images/Sketch/Sketch-Symmetry-ConstrainBlock.png)|
 
 Bruger vi denne fremgangsmåde skal vi kun bruge ![Sketcher_ConstrainBlock.svg](./Images/Icon/Sketcher_ConstrainBlock.png) Sketcher ConstrainBlock for at opnå en fully constrained sketch.
