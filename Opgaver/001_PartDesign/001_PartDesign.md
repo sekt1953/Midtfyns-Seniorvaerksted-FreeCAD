@@ -1,5 +1,28 @@
 # Opgave 001 Part Design  
 
+**I denne opgave skal vi arbejde med følgende tools:**
+
+* [![Standard_menu_tools.png](../../Images/Standard_menu_tools.png)  Standardmenuen <br> er sammensat af 7 undermenuer. Hver undermenu har en dedikeret side.](https://wiki.freecadweb.org/Std_Base)
+  * [Std File Menu](https://wiki.freecadweb.org/Std_File_Menu)
+    * [![Std New](../../Images/Std_New.svg) Std New: Som opretter et nyt tomt dokument og gør det til det aktive dokument.](https://wiki.freecadweb.org/Std_New)
+    * [![Std Save](../../Images/Std_Save.svg) Std Save: Som gemmer det aktive dokument.](https://wiki.freecadweb.org/Std_Save)
+    * [![Std CloseActiveWindow](../../Images/Std_CloseActiveWindow.svg) Std CloseActiveWindow: Som lukker det aktive vindue. For at lukke et dokument skal alle dets vinduer være lukkede.](https://wiki.freecadweb.org/Std_CloseActiveWindow)
+    * [![Std Save](../../Images/Std_CloseAllWindows.svg) Std CloseAllWindows: Som lukker alle vinduer og lukker derved alle dokumenter.](https://wiki.freecadweb.org/Std_CloseAllWindows)
+* [![PartDesign.svg](../../Images/Workbench_PartDesign.svg) PartDesign Workbench](https://wiki.freecadweb.org/PartDesign_Workbench)
+  * Part Design Helper tools
+    * [![PartDesign Body.svg](../../Images/PartDesign_Body.svg) Create body: opretter et Body-objekt i det aktive dokument og gør det aktivt.](https://wiki.freecadweb.org/PartDesign_Body)
+    * [![PartDesign NewSketch](../../Images/Sketcher_NewSketch.svg) Opret skitse: opretter en ny skitse på et valgt ansigt eller et valgt plan.](https://wiki.freecadweb.org/PartDesign_NewSketch)
+    * [![Sketcher EditSketch](../../Images/Sketcher_EditSketch.svg) Denne kommando giver dig mulighed for at redigere en eksisterende skitse. Det åbner Sketcher-dialogen.](https://wiki.freecadweb.org/Sketcher_EditSketch)
+  * Part Design Modeling tools
+    * [![PartDesign Plane](../../Images/PartDesign_Plane.svg) PartDesign Plane.svg Opret et datumplan: opretter et datumplan i den aktive krop.](https://wiki.freecadweb.org/PartDesign_Plane)
+  * Additive tools
+    * [![Pad](../../Images/PartDesign_Pad.svg) Pad: Ekstruderer et solidt materiale fra en valgt skitse.](https://wiki.freecadweb.org/PartDesign_Pad)
+  * Subtractive tools
+    * [![Pocket](../../Images/PartDesign_Pocket.svg) Pocket: opretter en lomme ud fra en valgt skitse.](https://wiki.freecadweb.org/PartDesign_Pocket)
+  * Transformation tools
+    * [![Mirrored](../../Images/PartDesign_Mirrored.svg) Mirrored: spejler en eller flere funktioner.](https://wiki.freecadweb.org/PartDesign_Mirrored)
+    * [![Linear Pattern](../../Images/PartDesign_LinearPattern.svg) Lineært mønster: opretter et lineært mønster af en eller flere funktioner.](https://wiki.freecadweb.org/PartDesign_LinearPattern)
+
 I den første opgave skal vi tegne et skab, der har følgende mål:  
 
 * Udvendig Højde: **600mm**  
