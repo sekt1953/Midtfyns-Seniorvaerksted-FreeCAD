@@ -47,12 +47,12 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
 
 
 | Profil | Sketch | Pad |
-| ---  | ---    | --- |
-|20x20 | ![](./Images/Sketch002/20x20_Sketch.png) | ![](./Images/Sketch002/20x20_pad.png) |
-|20x40 | ![](./Images/Sketch002/20x40_Sketch.png) | ![](./Images/Sketch002/20x40_Pad.png) |
+| ---  | --- | --- |
+|20x20 | ![20x20_Sketch.png](./Images/Sketch002/20x20_Sketch.png)| ![20x20_pad.png](./Images/Sketch002/20x20_pad.png) |
+|20x40 | ![0x40_Sketch.png](./Images/Sketch002/20x40_Sketch.png) | ![20x40_Pad.png](./Images/Sketch002/20x40_Pad.png) |
 
 * Vi starter med at tegne 2 construction linier
-  1. Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. Konstruktionsgeometri er vist i blåt og kasseres uden for skitseredigeringstilstand.
+  1. Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. Konstruktionsgeometri er vist i **blåt** og kasseres uden for skitseredigeringstilstand.
   2. vælg ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) Line geometries tool til at tegne Konstruktionsgeometrien med.
   3. en linie med (x,y kordinaterne) (0,0) til (-10,10)
   4. næste linie skal være Perpendicular til første linie og have endpunkt i (y=5mm), med en længde på: 1,5mm/2
@@ -62,8 +62,8 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
 
 
 
-| Konstruktionsgeometri |Sketch Start |
-|--- |--- |
+|Konstruktionsgeometri|Sketch Start|
+| --- | --- |
 |![Sketch-Symmetry-20x20_001a.png](./Images/Sketch002/Sketch-Symmetry-20x20_001a.png)|![Sketch-Symmetry-20x20_001ab.png](./Images/Sketch002/Sketch-Symmetry-20x20_001ab.png) |
 
 
@@ -80,6 +80,41 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
 |Datums constraints<br>(2 Horizontal distance, 1 Vertical distance, 1 Radius)|Geometric constraints:<br>(9 Block) |
 |--- |--- |
 |![Sketch-Symmetry-20x20_001f.png](./Images/Sketch002/Sketch-Symmetry-20x20_001f.png)|![Sketch-Symmetry-20x20_001g.png](./Images/Sketch002/Sketch-Symmetry-20x20_001g.png)|
+<hr>
+
+## Sketcher_Symmetry 20x20x100 Profile
+
+|Fully Constrained & Fully Block |Symmetry over Konstruktionslinie |
+| --- | --- |
+|![Sketch-Symmetry-20x20_002a.png](./Images/Sketch002/Sketch-Symmetry-20x20_002a.png)|![Sketch-Symmetry-20x20_002b.png](./Images/Sketch002/Sketch-Symmetry-20x20_002b.png)|
+
+|Symmetry over Y_Axis|Symmetry over X_Axis|
+| --- | --- |
+|![Sketch-Symmetry-20x20_002c.png](./Images/Sketch002/Sketch-Symmetry-20x20_002c.png)|![Sketch-Symmetry-20x20_002d.png](./Images/Sketch002/Sketch-Symmetry-20x20_002d.png)|
+
+|Symmetry 20x20x100 Pad|
+| --- |
+|![20x20_pad.png](./Images/Sketch002/20x20_pad.png)|
+
+<hr>
+
+## Sketcher_Symmetry 20x40x100 Profile
+
+|Fully Constrained & Fully Block |Symmetry over Konstruktionslinie |
+| --- | --- |
+|![Sketch-Symmetry-20x20_002a.png](./Images/Sketch002/Sketch-Symmetry-20x20_002a.png)|![Sketch-Symmetry-20x20_002b.png](./Images/Sketch002/Sketch-Symmetry-20x20_002b.png)|
+
+|Symmetry over Y_Axis|Fully Constrained Ændring i højreside|
+| --- | --- |
+|![Sketch-Symmetry-20x20_002c.png](./Images/Sketch002/Sketch-Symmetry-20x20_002c.png)|![Sketch-Symmetry-20x20_003a.png](./Images/Sketch002/Sketch-Symmetry-20x20_003a.png)|
+
+|Symmetry over X_Axis<br>Ny Konstruktionslinie fully constrained|Symmetry over Konstruktionslinie  |
+| --- | --- |
+|![Sketch-Symmetry-20x20_003b.png](./Images/Sketch002/Sketch-Symmetry-20x20_003b.png)|![Sketch-Symmetry-20x20_003c.png](./Images/Sketch002/Sketch-Symmetry-20x20_003c.png)|
+
+|Symmetry 20x40x100 Pad|
+| --- |
+|![20x40_Pad.png](./Images/Sketch002/20x40_Pad.png)|
 
 
 <hr>
