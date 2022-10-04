@@ -56,14 +56,16 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
   2. vælg ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) Line geometries tool til at tegne Konstruktionsgeometrien med.
   3. en linie med (x,y kordinaterne) (0,0) til (-10,10)
   4. næste linie skal være Perpendicular til første linie og have endpunkt i (y=5mm), med en længde på: 1,5mm/2
-  5. Se Sketch herunder
-
-| Konstruktionsgeometri |
-| --- |
-|![Sketch-Symmetry-20x20_001.png](./Images/Sketch002/Sketch-Symmetry-20x20_001a.png)|
-
+  5. Se **Konstruktionsgeometri** herunder.
 * Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. 
-  * 
+  * 111
+
+
+
+| Konstruktionsgeometri |Sketch Start |
+|--- |--- |
+|![Sketch-Symmetry-20x20_001a.png](./Images/Sketch002/Sketch-Symmetry-20x20_001a.png)|![Sketch-Symmetry-20x20_001ab.png](./Images/Sketch002/Sketch-Symmetry-20x20_001ab.png) |
+
 
 
 
