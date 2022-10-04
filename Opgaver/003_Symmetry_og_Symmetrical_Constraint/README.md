@@ -19,6 +19,8 @@
   * ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) [Line:](https://wiki.freecadweb.org/Sketcher_CreateLine)  Tegner et linjestykke mellem 2 punkter. Linjer er uendelige med hensyn til visse begrænsninger.
   * ![Sketcher_CompCreateArc.png](./Images/Icon32/Sketcher_CreateArc.png) [Create an arc](https://wiki.freecadweb.org/Sketcher_CompCreateArc) Tegner et buesegment fra centrum, radius, startvinkel og slutvinkel.
   * ![Sketcher_CreatePolyline.png](./Images/Icon32/Sketcher_CreatePolyline.png) [Polyline](https://wiki.freecadweb.org/Sketcher_CreatePolyline) Tegner en linje lavet af flere linjestykker.
+  * ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) [Toggle construction geometry:](https://wiki.freecadweb.org/Sketcher_ToggleConstruction) Skifter skitsegeometri fra/til konstruktionstilstand. Konstruktionsgeometri er vist i blåt og kasseres uden for skitseredigeringstilstand.
+
 * Geometric constraints
   * ![Sketcher_ConstrainCoincident.png](./Images/Icon32/Sketcher_ConstrainCoincident.png) [Coincident:](https://wiki.freecadweb.org/Sketcher_ConstrainCoincident) Sætter et punkt på (sammenfaldende med) et eller flere andre punkter.
   * ![Sketcher_ConstrainPointOnObject.png](./Images/Icon32/Sketcher_ConstrainPointOnObject.png) [Point on Object:](https://wiki.freecadweb.org/Sketcher_ConstrainPointOnObject) Sætter et punkt på et andet objekt såsom en linje, bue eller akse.
@@ -33,6 +35,50 @@
   * ![Sketcher_ConstrainDistance.png](./Images/Icon32/Sketcher_ConstrainDistance.png) [Distance:](https://wiki.freecadweb.org/Sketcher_ConstrainDistance) Definerer afstanden af en valgt linje ved at begrænse dens længde, eller definerer afstanden mellem to punkter ved at begrænse afstanden mellem dem.
   * ![Sketcher_ConstrainDiameter.png](./Images/Icon32/Sketcher_ConstrainDiameter.png) [Diameter:](https://wiki.freecadweb.org/Sketcher_ConstrainDiameter) Definerer diameteren af en valgt bue eller cirkel ved at begrænse diameteren.
   * ![Sketcher_ConstrainAngle.png](./Images/Icon32/Sketcher_ConstrainAngle.png) [Angle:](https://wiki.freecadweb.org/Sketcher_ConstrainAngle) Definerer den indre vinkel mellem to valgte linjer.
+
+<hr>
+
+## Her er billeder af de to typer Alu-Profiler som vi skal prøve at tegne
+
+* 20x20x100mm Profil
+* 20x40x100mm Profil
+
+På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en skydelærer, ud fra dem skulle det være en smal sag at tegne disse profiler. Som det fremgår at tegningerne er der rigtig mange symetri linier i profilerne, så lad os udnytte dette.
+
+
+| Profil | Sketch | Pad |
+| ---  | ---    | --- |
+|20x20 | ![](./Images/Sketch002/20x20_Sketch.png) | ![](./Images/Sketch002/20x20_pad.png) |
+|20x40 | ![](./Images/Sketch002/20x40_Sketch.png) | ![](./Images/Sketch002/20x40_Pad.png) |
+
+* Vi starter med at tegne 2 construction linier
+  1. Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. Konstruktionsgeometri er vist i blåt og kasseres uden for skitseredigeringstilstand.
+  2. vælg ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) Line geometries tool til at tegne Konstruktionsgeometrien med.
+  3. en linie med (x,y kordinaterne) (0,0) til (-10,10)
+  4. næste linie skal være Perpendicular til første linie og have endpunkt i (y=5mm), med en længde på: 1,5mm/2
+  5. Se Sketch herunder
+
+| Konstruktionsgeometri |
+| --- |
+|![Sketch-Symmetry-20x20_001.png](./Images/Sketch002/Sketch-Symmetry-20x20_001a.png)|
+
+* Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. 
+  * 
+
+
+
+|Geometric constraints:<br>(3 Horizontal, 1 Vertical)|Geometric constraints:<br>(2 Parallel)|
+|--- |--- |
+|![Sketch-Symmetry-20x20_001b.png](./Images/Sketch002/Sketch-Symmetry-20x20_001b.png)|![Sketch-Symmetry-20x20_001c.png](./Images/Sketch002/Sketch-Symmetry-20x20_001c.png)|
+
+|Geometric constraints:<br>(3 Coincident)|Geometric constraints:<br>(3 Point on object)|
+|--- |--- |
+|![Sketch-Symmetry-20x20_001d.png](./Images/Sketch002/Sketch-Symmetry-20x20_001d.png)|![Sketch-Symmetry-20x20_001e.png](./Images/Sketch002/Sketch-Symmetry-20x20_001e.png)|
+
+|Datums constraints<br>(2 Horizontal distance, 1 Vertical distance, 1 Radius)|Geometric constraints:<br>(9 Block) |
+|--- |--- |
+|![Sketch-Symmetry-20x20_001f.png](./Images/Sketch002/Sketch-Symmetry-20x20_001f.png)|![Sketch-Symmetry-20x20_001g.png](./Images/Sketch002/Sketch-Symmetry-20x20_001g.png)|
+
 
 <hr>
 
