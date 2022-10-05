@@ -51,23 +51,30 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
 |20x20 | ![20x20_Sketch.png](./Images/Sketch002/20x20_Sketch.png)| ![20x20_pad.png](./Images/Sketch002/20x20_pad.png) |
 |20x40 | ![0x40_Sketch.png](./Images/Sketch002/20x40_Sketch.png) | ![20x40_Pad.png](./Images/Sketch002/20x40_Pad.png) |
 
+## Konstruktionsgeometri
+
 * Vi starter med at tegne 2 construction linier
   1. Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. Konstruktionsgeometri er vist i **blåt** og kasseres uden for skitseredigeringstilstand.
   2. vælg ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) Line geometries tool til at tegne Konstruktionsgeometrien med.
   3. en linie med (x,y kordinaterne) (0,0) til (-10,10)
   4. næste linie skal være Perpendicular til første linie og have endpunkt i (y=5mm), med en længde på: 1,5mm/2
   5. Se **Konstruktionsgeometri** herunder.
-* Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. 
-  * 111
 
+## Sketch Start
+
+* Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra konstruktionstilstand. 
+  * Brug nu ![Sketcher_CreatePolyline.png](./Images/Icon32/Sketcher_CreatePolyline.png) og ![Sketcher_CreateArc.png](./Images/Icon32/Sketcher_CreateArc.png), til at tegne et 45 graders udsnit af vores Alu-Profile.
+  * Se **Sketch Start** herunder
 
 
 |Konstruktionsgeometri|Sketch Start|
 | --- | --- |
 |![Sketch-Symmetry-20x20_001a.png](./Images/Sketch002/Sketch-Symmetry-20x20_001a.png)|![Sketch-Symmetry-20x20_001ab.png](./Images/Sketch002/Sketch-Symmetry-20x20_001ab.png) |
 
-
-
+## Geometric constraints
+* 3 Horizontal & 1 Vertical constraints
+  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) Horizontal constraints  & ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) Vertical constraints, så vi får låst alle vandrette og lodrette linier.
+  * Se billeder herunder:
 
 |Geometric constraints:<br>(3 Horizontal, 1 Vertical)|Geometric constraints:<br>(2 Parallel)|
 |--- |--- |
