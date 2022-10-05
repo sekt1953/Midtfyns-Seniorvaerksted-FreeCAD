@@ -57,7 +57,7 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
   1. Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. Konstruktionsgeometri er vist i **blåt** og kasseres uden for skitseredigeringstilstand.
   2. vælg ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) Line geometries tool til at tegne Konstruktionsgeometrien med.
   3. en linie med (x,y kordinaterne) (0,0) til (-10,10)
-  4. næste linie skal være Perpendicular til første linie og have endpunkt i (y=5mm), med en længde på: 1,5mm/2
+  4. næste linie skal være Perpendicular til første linie og have endpunkt i (y=5mm), med en længde på: (1,5mm/2)
   5. Se **Konstruktionsgeometri** herunder.
 
 ## Sketch Start
@@ -72,17 +72,40 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
 |![Sketch-Symmetry-20x20_001a.png](./Images/Sketch002/Sketch-Symmetry-20x20_001a.png)|![Sketch-Symmetry-20x20_001ab.png](./Images/Sketch002/Sketch-Symmetry-20x20_001ab.png) |
 
 ## Geometric constraints
+
 * 3 Horizontal & 1 Vertical constraints
   * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) Horizontal constraints  & ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) Vertical constraints, så vi får låst alle vandrette og lodrette linier.
-  * Se billeder herunder:
+  * Se billedet herunder til venstre:
+* 2 Parallel constraints
+  * brug nu ![Sketcher_ConstrainParallel.png](./Images/Icon32/Sketcher_ConstrainParallel.png) Parallel constraints til at få styr på de to skrå linier.
+  * Se billedet herunder til højre:
 
 |Geometric constraints:<br>(3 Horizontal, 1 Vertical)|Geometric constraints:<br>(2 Parallel)|
 |--- |--- |
 |![Sketch-Symmetry-20x20_001b.png](./Images/Sketch002/Sketch-Symmetry-20x20_001b.png)|![Sketch-Symmetry-20x20_001c.png](./Images/Sketch002/Sketch-Symmetry-20x20_001c.png)|
 
+* 3 Coincident  constraints
+  * Brug nu ![Sketcher_ConstrainCoincident.png](./Images/Icon32/Sketcher_ConstrainCoincident.png) **Coincident  constraints** til at låse 3 punkter.
+  * Se billedet herunder til venstre:
+* 3 Point on object
+  * Brug nu ![Sketcher_ConstrainPointOnObject.png](./Images/Icon32/Sketcher_ConstrainPointOnObject.png)  til at få låst de sidste 3 punkter.
+  * Se billedet herunder til højre:
+
 |Geometric constraints:<br>(3 Coincident)|Geometric constraints:<br>(3 Point on object)|
 |--- |--- |
 |![Sketch-Symmetry-20x20_001d.png](./Images/Sketch002/Sketch-Symmetry-20x20_001d.png)|![Sketch-Symmetry-20x20_001e.png](./Images/Sketch002/Sketch-Symmetry-20x20_001e.png)|
+
+## Datums constraints
+
+* 2 Horizontal distance (10,4mm/2) & (6,4mm/2), 1 Vertical distance (1,6mm) & 1 Radius (4,0mm)
+  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) **HorizontalDistance Constrain** , ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) **Vertical Distance Constrain**, ![Sketcher_ConstrainDiameter.png](./Images/Icon32/Sketcher_ConstrainDiameter.png) **Radius Constrain**
+  * Se billedet herunder til højre:
+
+## Geometric constraints
+
+* 9 Block
+  * Brug nu ![Sketcher_ConstrainBlock.png](./Images/Icon32/Sketcher_ConstrainBlock.png) **Block Constrain**, vi skal bruge Block constrain for at holde vore sketh fully constrain efter Sketcher_Symmetry værktøjet.
+  * Se billedet herunder til højre:
 
 |Datums constraints<br>(2 Horizontal distance, 1 Vertical distance, 1 Radius)|Geometric constraints:<br>(9 Block) |
 |--- |--- |
