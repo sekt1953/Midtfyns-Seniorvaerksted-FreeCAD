@@ -217,12 +217,11 @@ Vi skal starte med at tegne et 45deg udsnit af vores Alu-profil, så derfor opre
 | --- |
 |![Sketch-Symmetry-20x20_002.png](./Images/Sketch002/Sketch-Symmetry-20x40_002.png)|
 
-
 |Symmetry over konstruktions linie|
 | --- |
 |![Sketch-Symmetry-20x20_003.png](./Images/Sketch002/Sketch-Symmetry-20x40_003.png)|
 
-
+## Pad
 
 |Symmetry 20x40x100 Pad|
 | --- |
