@@ -36,7 +36,7 @@ I opgaverne som følger i dette afsnit skal vi bruge PartDesign & Sketcher Workb
 * [Oprettelse af en simpel del med PartDesign](https://wiki.freecad.org/Creating_a_simple_part_with_PartDesign)
 * [Grundlæggende deldesigntutorial](https://wiki.freecad.org/Basic_Part_Design_Tutorial)
 
-## [Opgave 001, Klik Her](./Opgaver/001_PartDesign/001_PartDesign.md)
+## [Opgave 001, Klik Her](./Opgaver/001_PartDesign/README.md)
 
 I opgave 001 skal vi tegne et køkken skab, i skabet skal vi tegne 1 Side_Plade, 1 Bund/Top_Plade, 1 bagbklædning og en Hylde.  
 I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet LinearPattern.
