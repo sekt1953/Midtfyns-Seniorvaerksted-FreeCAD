@@ -43,13 +43,13 @@ I side pladen skal vi lave huller for hylde bærer, ved hjælp af værktøjet Li
 
 ![SkabsSider](./Opgaver/001_PartDesign/Images/001.000_PartDesign_skabsSider.png)
 
-## [Opgave 002, AluProfile Klik Her](./Opgaver/002_PartDesign-AluProfile/002_PartDesign-AluProfile.md)
+## [Opgave 002, AluProfile Klik Her](./Opgaver/002_PartDesign-AluProfile/README.md)
 
 I opgave 002 skal vi tegne en AluminiumsProfil so vist herunder
 
 [![Opgave_002.png](./Images/Opgave_002.png)](./Opgaver/002_PartDesign-AluProfile/002_PartDesign-AluProfile.md)
 
-## [Opgave 003, Sketcher Symmetry - Geometric & Dimensional constraints](./Opgaver/003_Symmetry_og_Symmetrical_Constraint/README.md) ![Sketcher_Symmetry.png](./Opgaver/003_Symmetry_og_Symmetrical_Constraint/Images/Icon64/Sketcher_Symmetry.png)
+## [Opgave 003, Sketcher Symmetry - Geometric & Dimensional constraints](./Opgaver/003_Sketcher%20Symmetry%20-%20Geometric%20%26%20Dimensional%20constraints/README.md) ![Sketcher_Symmetry.png](./Opgaver/003_Symmetry_og_Symmetrical_Constraint/Images/Icon64/Sketcher_Symmetry.png)
 
 I opgave 3 skal vi prøve om der er en nemmere måde at tegne vores Alu-Profile, vi skal prøve kræfter med **Sketcher Symmetry** og **Sketcher ConstrainSymmetric**, vi vil prøve at tegne vores alu profil ved hjælp af mirror og constrain.
 
