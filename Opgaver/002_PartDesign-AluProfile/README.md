@@ -1,4 +1,4 @@
-# Opgave 002 Part Design AluminiumProfile  
+# Part Design AluminiumProfile Version 1 
 
 I denne opgave skal vi tegne en aluminium profil:  
 
