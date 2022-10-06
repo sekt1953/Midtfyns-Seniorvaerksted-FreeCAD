@@ -53,12 +53,18 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
 
 ## Konstruktionsgeometri
 
+Vi skal starte med at tegne et 45deg udsnit af vores Alu-profil, så derfor opretter vi et par konstruktions linier. Senere kan vi så spejle vores tegning over denne linie.
+
 * Vi starter med at tegne 2 construction linier
   1. Klik ![Sketcher_ToggleConstruction.png](./Images/Icon32/Sketcher_ToggleConstruction.png) så skifter skitsegeometri fra/til konstruktionstilstand. Konstruktionsgeometri er vist i **blåt** og kasseres uden for skitseredigeringstilstand.
-  2. vælg ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) Line geometries tool til at tegne Konstruktionsgeometrien med.
-  3. en linie med (x,y kordinaterne) (0,0) til (-10,10)
-  4. næste linie skal være Perpendicular til første linie og have endpunkt i (y=5mm), med en længde på: (1,5mm/2)
-  5. Se **Konstruktionsgeometri** herunder.
+  2. vælg ![Sketcher_CreateLine.png](./Images/Icon32/Sketcher_CreateLine.png) Line geometries tool til at tegne Konstruktionslinierne med med.
+  3. Den første linie skla gå fra nul punkt (0.0,0.0) til ca. (15.0, 135.0 deg).
+  4. næste linie skal starte ca. i (-4.0, 5.0), og slutte med vinkelret på den første line. Brug ![Sketcher_ConstrainPerpendicular.png](./Images/Icon32/Sketcher_ConstrainPerpendicular.png) Perpendicular constrain til at låse linien.
+  5. Se billedet **Konstruktionsgeometri** herunder til venstre.
+
+|Konstruktionsgeometri Combo View -> Task -> Constrains|
+| --- |
+|![Sketch-Symmetry-20x20_001.png](./Images/Sketch002/Sketch-Symmetry-20x20_001.png)|
 
 ## Sketch Start
 
@@ -66,61 +72,120 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
   * Brug nu ![Sketcher_CreatePolyline.png](./Images/Icon32/Sketcher_CreatePolyline.png) og ![Sketcher_CreateArc.png](./Images/Icon32/Sketcher_CreateArc.png), til at tegne et 45 graders udsnit af vores Alu-Profile.
   * Se **Sketch Start** herunder
 
+|Sketch Start|
+| --- |
+|![Sketch-Symmetry-20x20_002a.png](./Images/Sketch002/Sketch-Symmetry-20x20_002.png)|
 
-|Konstruktionsgeometri|Sketch Start|
-| --- | --- |
-|![Sketch-Symmetry-20x20_001a.png](./Images/Sketch002/Sketch-Symmetry-20x20_001a.png)|![Sketch-Symmetry-20x20_001ab.png](./Images/Sketch002/Sketch-Symmetry-20x20_001ab.png) |
-
-## Geometric constraints
+## Geometric ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) Horizontal constraints & ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) Vertical constraints
 
 * 3 Horizontal & 1 Vertical constraints
   * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) Horizontal constraints  & ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) Vertical constraints, så vi får låst alle vandrette og lodrette linier.
   * Se billedet herunder til venstre:
+
+|Geometric constraints: (3 Horizontal, 1 Vertical)
+|--- |
+|![Sketch-Symmetry-20x20_003.png](./Images/Sketch002/Sketch-Symmetry-20x20_003.png)
+
+## Geometric ![Sketcher_ConstrainParallel.png](./Images/Icon32/Sketcher_ConstrainParallel.png) Parallel constraints
+
 * 2 Parallel constraints
   * brug nu ![Sketcher_ConstrainParallel.png](./Images/Icon32/Sketcher_ConstrainParallel.png) Parallel constraints til at få styr på de to skrå linier.
   * Se billedet herunder til højre:
 
-|Geometric constraints:<br>(3 Horizontal, 1 Vertical)|Geometric constraints:<br>(2 Parallel)|
-|--- |--- |
-|![Sketch-Symmetry-20x20_001b.png](./Images/Sketch002/Sketch-Symmetry-20x20_001b.png)|![Sketch-Symmetry-20x20_001c.png](./Images/Sketch002/Sketch-Symmetry-20x20_001c.png)|
+|Geometric constraints: (2 Parallel)
+|--- |
+|![Sketch-Symmetry-20x20_004.png](./Images/Sketch002/Sketch-Symmetry-20x20_004.png)
 
-* 3 Coincident  constraints
+## Geometric ![Sketcher_ConstrainCoincident.png](./Images/Icon32/Sketcher_ConstrainCoincident.png) Coincident constraints
+
+* 2 Coincident  constraints
   * Brug nu ![Sketcher_ConstrainCoincident.png](./Images/Icon32/Sketcher_ConstrainCoincident.png) **Coincident  constraints** til at låse 3 punkter.
   * Se billedet herunder til venstre:
-* 3 Point on object
-  * Brug nu ![Sketcher_ConstrainPointOnObject.png](./Images/Icon32/Sketcher_ConstrainPointOnObject.png)  til at få låst de sidste 3 punkter.
+
+|Geometric constraints: (2 Coincident)|
+|--- |
+|![Sketch-Symmetry-20x20_005.png](./Images/Sketch002/Sketch-Symmetry-20x20_005.png)|
+
+## Geometric ![Sketcher_ConstrainPointOnObject.png](./Images/Icon32/Sketcher_ConstrainPointOnObject.png) Point on object constraints
+
+* 4 Point on object
+  * Brug nu ![Sketcher_ConstrainPointOnObject.png](./Images/Icon32/Sketcher_ConstrainPointOnObject.png)  til at få låst de sidste 4 punkter.
   * Se billedet herunder til højre:
 
-|Geometric constraints:<br>(3 Coincident)|Geometric constraints:<br>(3 Point on object)|
-|--- |--- |
-|![Sketch-Symmetry-20x20_001d.png](./Images/Sketch002/Sketch-Symmetry-20x20_001d.png)|![Sketch-Symmetry-20x20_001e.png](./Images/Sketch002/Sketch-Symmetry-20x20_001e.png)|
+|Geometric constraints: (4 Point on object)|
+|--- |
+|![Sketch-Symmetry-20x20_006.png](./Images/Sketch002/Sketch-Symmetry-20x20_006.png)|
 
-## Datums constraints
+## Datums ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistance.png) Distance constraints
 
-* 2 Horizontal distance (10,4mm/2) & (6,4mm/2), 1 Vertical distance (1,6mm) & 1 Radius (4,0mm)
-  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) **HorizontalDistance Constrain** , ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) **Vertical Distance Constrain**, ![Sketcher_ConstrainDiameter.png](./Images/Icon32/Sketcher_ConstrainDiameter.png) **Radius Constrain**
-  * Se billedet herunder til højre:
+* 1 Datum Distance (1,5mm / 2) Constrain
+  * Brug nu ![Sketcher_ConstrainDistance.png](./Images/Icon32/Sketcher_ConstrainDistance.png) **HorizontalDistance Constrain**
 
-## Geometric constraints
+|Datum Distance Constraints: (1,5mm / 2)|
+|--- |
+|![Sketch-Symmetry-20x20_007.png](./Images/Sketch002/Sketch-Symmetry-20x20_007.png)|
+
+## Datums ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) Horizontal distance constraints
+
+* 2 Horizontal distance (6,4mm / 2) & (10,4mm / 2)
+  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) **HorizontalDistance Constrain**
+
+|Datum Horizontal distance constraints (6,4mm / 2) & (10,4mm / 2)|
+|--- |
+|![Sketch-Symmetry-20x20_008.png](./Images/Sketch002/Sketch-Symmetry-20x20_008.png)|
+
+## Datums ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) Vertical distance constraints
+
+* 3 Datum Vertical Distance Constrain på 1,6mm & 5,0mm & 10,0mm
+  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) **HorizontalDistance Constrain**
+
+|Datum Vertical distance constraints på 1,6mm & 5mm & 10mm|
+|--- |
+|![Sketch-Symmetry-20x20_009.png](./Images/Sketch002/Sketch-Symmetry-20x20_009.png)|
+
+## Datums ![Sketcher_ConstrainDiameter.png](./Images/Icon32/Sketcher_ConstrainDiameter.png) Diameter constraints
+
+* 1 Datum Diameter Constrain på 4mm
+  * Brug nu ![Sketcher_ConstrainDiameter.png](./Images/Icon32/Sketcher_ConstrainDiameter.png) **Diameter Constrain**
+
+|Datum Diameter Constraints på 4mm|
+|--- |
+|![Sketch-Symmetry-20x20_010.png](./Images/Sketch002/Sketch-Symmetry-20x20_010.png)|
+
+## Datum ![](./Images/Icon32/Sketcher_ConstrainAngle.png) Angle Constrain
+
+* Lås nu konstruktions linien med ![Sketcher_ConstrainAngle.png](./Images/Icon32/Sketcher_ConstrainAngle.png) **Angle constrain** til en vinklen på 45deg i forhold til Y_Axis.  
+
+|Datum Angle Constraints på 45deg|
+|--- |
+|![Sketch-Symmetry-20x20_011.png](./Images/Sketch002/Sketch-Symmetry-20x20_011.png)|
+
+## Geometric Block constraints
 
 * 9 Block
   * Brug nu ![Sketcher_ConstrainBlock.png](./Images/Icon32/Sketcher_ConstrainBlock.png) **Block Constrain**, vi skal bruge Block constrain for at holde vore sketh fully constrain efter Sketcher_Symmetry værktøjet.
-  * Se billedet herunder til højre:
 
-|Datums constraints<br>(2 Horizontal distance, 1 Vertical distance, 1 Radius)|Geometric constraints:<br>(9 Block) |
-|--- |--- |
-|![Sketch-Symmetry-20x20_001f.png](./Images/Sketch002/Sketch-Symmetry-20x20_001f.png)|![Sketch-Symmetry-20x20_001g.png](./Images/Sketch002/Sketch-Symmetry-20x20_001g.png)|
+|Datums 9 Block Constraints|
+|--- |
+|![Sketch-Symmetry-20x20_012.png](./Images/Sketch002/Sketch-Symmetry-20x20_012.png)|
+
 <hr>
 
 ## Sketcher_Symmetry 20x20x100 Profile
 
-|Fully Constrained & Fully Block |Symmetry over Konstruktionslinie |
+|Fully Constrained<br> & Selected sketch|Sketcher_Symmetry<br>over Konstruktionslinie<br> Sketch->Sketcher Tools->Symmetry [Z],[S]|
 | --- | --- |
-|![Sketch-Symmetry-20x20_002a.png](./Images/Sketch002/Sketch-Symmetry-20x20_002a.png)|![Sketch-Symmetry-20x20_002b.png](./Images/Sketch002/Sketch-Symmetry-20x20_002b.png)|
+|![Sketch-Symmetry-20x20_013a.png](./Images/Sketch002/Sketch-Symmetry-20x20_013a.png)|![Sketch-Symmetry-20x20_013b.png](./Images/Sketch002/Sketch-Symmetry-20x20_013b.png)||
 
-|Symmetry over Y_Axis|Symmetry over X_Axis|
-| --- | --- |
-|![Sketch-Symmetry-20x20_002c.png](./Images/Sketch002/Sketch-Symmetry-20x20_002c.png)|![Sketch-Symmetry-20x20_002d.png](./Images/Sketch002/Sketch-Symmetry-20x20_002d.png)|
+|Symmetry over Y_Axis|
+| --- |
+|![Sketch-Symmetry-20x20_014.png](./Images/Sketch002/Sketch-Symmetry-20x20_014.png)|
+
+
+|Symmetry over X_Axis|
+| --- |
+![Sketch-Symmetry-20x20_015.png](./Images/Sketch002/Sketch-Symmetry-20x20_015.png)|
+
 
 |Symmetry 20x20x100 Pad|
 | --- |
@@ -130,17 +195,34 @@ På de to tegninger herunder, har jeg indtastet de mål, vi har taget med en sky
 
 ## Sketcher_Symmetry 20x40x100 Profile
 
-|Fully Constrained & Fully Block |Symmetry over Konstruktionslinie |
+|Fully Constrained<br> & Selected sketch|Sketcher_Symmetry<br>over Konstruktionslinie<br> Sketch->Sketcher Tools->Symmetry [Z],[S]|
 | --- | --- |
-|![Sketch-Symmetry-20x20_002a.png](./Images/Sketch002/Sketch-Symmetry-20x20_002a.png)|![Sketch-Symmetry-20x20_002b.png](./Images/Sketch002/Sketch-Symmetry-20x20_002b.png)|
+|![Sketch-Symmetry-20x20_013a.png](./Images/Sketch002/Sketch-Symmetry-20x20_013a.png)|![Sketch-Symmetry-20x20_013b.png](./Images/Sketch002/Sketch-Symmetry-20x20_013b.png)||
 
-|Symmetry over Y_Axis|Fully Constrained Ændring i højreside|
-| --- | --- |
-|![Sketch-Symmetry-20x20_002c.png](./Images/Sketch002/Sketch-Symmetry-20x20_002c.png)|![Sketch-Symmetry-20x20_003a.png](./Images/Sketch002/Sketch-Symmetry-20x20_003a.png)|
+|Symmetry over Y_Axis|
+| --- |
+|![Sketch-Symmetry-20x20_014.png](./Images/Sketch002/Sketch-Symmetry-20x20_014.png)|
 
-|Symmetry over X_Axis<br>Ny Konstruktionslinie fully constrained|Symmetry over Konstruktionslinie  |
-| --- | --- |
-|![Sketch-Symmetry-20x20_003b.png](./Images/Sketch002/Sketch-Symmetry-20x20_003b.png)|![Sketch-Symmetry-20x20_003c.png](./Images/Sketch002/Sketch-Symmetry-20x20_003c.png)|
+## Ret i Sketch, Slet liner og opret nye
+
+|Slettet Linier|
+| --- |
+|![Sketch-Symmetry-20x40_01a.png](./Images/Sketch002/Sketch-Symmetry-20x40_01a.png)|
+
+|Nye Linier|
+| --- |
+|![Sketch-Symmetry-20x40_01b.png](./Images/Sketch002/Sketch-Symmetry-20x40_01b.png)|
+
+|Symmetry over X_Axis|
+| --- |
+|![Sketch-Symmetry-20x20_002.png](./Images/Sketch002/Sketch-Symmetry-20x40_002.png)|
+
+
+|Symmetry over konstruktions linie|
+| --- |
+|![Sketch-Symmetry-20x20_003.png](./Images/Sketch002/Sketch-Symmetry-20x40_003.png)|
+
+
 
 |Symmetry 20x40x100 Pad|
 | --- |
