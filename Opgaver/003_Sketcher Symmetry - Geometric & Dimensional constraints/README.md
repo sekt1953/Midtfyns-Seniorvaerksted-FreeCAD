@@ -116,28 +116,28 @@ Vi skal starte med at tegne et 45deg udsnit af vores Alu-profil, så derfor opre
 |--- |
 |![Sketch-Symmetry-20x20_006.png](./Images/Sketch002/Sketch-Symmetry-20x20_006.png)|
 
-## Datums ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistance.png) Distance constraints
+## Datums ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistance.png) Distance Constraints
 
 * 1 Datum Distance (1,5mm / 2) Constrain
-  * Brug nu ![Sketcher_ConstrainDistance.png](./Images/Icon32/Sketcher_ConstrainDistance.png) **HorizontalDistance Constrain**
+  * Brug nu ![Sketcher_ConstrainDistance.png](./Images/Icon32/Sketcher_ConstrainDistance.png) **Distance Constrain**
 
 |Datum Distance Constraints: (1,5mm / 2)|
 |--- |
 |![Sketch-Symmetry-20x20_007.png](./Images/Sketch002/Sketch-Symmetry-20x20_007.png)|
 
-## Datums ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) Horizontal distance constraints
+## Datums ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) Horizontal Distance Constraints
 
 * 2 Horizontal distance (6,4mm / 2) & (10,4mm / 2)
-  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) **HorizontalDistance Constrain**
+  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceX.png) **Horizontal Distance Constrain**
 
 |Datum Horizontal distance constraints (6,4mm / 2) & (10,4mm / 2)|
 |--- |
 |![Sketch-Symmetry-20x20_008.png](./Images/Sketch002/Sketch-Symmetry-20x20_008.png)|
 
-## Datums ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) Vertical distance constraints
+## Datums ![Sketcher_ConstrainDistanceY.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) Vertical Distance Constraints
 
 * 3 Datum Vertical Distance Constrain på 1,6mm & 5,0mm & 10,0mm
-  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) **HorizontalDistance Constrain**
+  * Brug nu ![Sketcher_ConstrainDistanceX.png](./Images/Icon32/Sketcher_ConstrainDistanceY.png) **Vertical Distance Constrain**
 
 |Datum Vertical distance constraints på 1,6mm & 5mm & 10mm|
 |--- |
