@@ -55,6 +55,8 @@ I opgave 3 skal vi prøve om der er en nemmere måde at tegne vores Alu-Profile,
 
 ![Sketch-Symmetry-002.png](./Opgaver/003_Symmetry_og_Symmetrical_Constraint/Images/Sketch/Sketch-Symmetry.png)
 
+## [Opgave 004, Sub_Shape_Binder, AdditivePipe & LinearPattern](./Opgaver/004_CpuBox/) ![](./Opgaver/004_CpuBox/Images/Body_BOX/Body_BOX_Pocket_2022-11-19_22-20-50.png)
+
 # 3D-Printer på vej
 
 ![3D-Printer](./Images/3D-Printer.png)
