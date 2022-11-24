@@ -67,6 +67,7 @@ I opgave 3 skal vi prøve om der er en nemmere måde at tegne vores Alu-Profile,
   * [Ender 5 Plus Bed Leveling Guide](https://www.youtube.com/watch?v=kdQ_0IvolnE)
   * Test Prints:
     * [200mm Simple Test Pattern / Calibration](https://www.thingiverse.com/thing:3058427)
+    * [Bed Level & Filament Speed Test](https://www.thingiverse.com/thing:5002169)
 * [Teaching Tech](https://www.youtube.com/@TeachingTech)
   * [Bed levelling for beginners to achieve a perfect first layer](https://www.youtube.com/watch?v=Ze36SX1xzOE)
     * [First layer tab of calibration website:]https://teachingtechyt.github.io/calibration.html#firstlayer)
