@@ -57,6 +57,21 @@ I opgave 3 skal vi prøve om der er en nemmere måde at tegne vores Alu-Profile,
 
 ## [Opgave 004, Sub_Shape_Binder, AdditivePipe & LinearPattern](./Opgaver/004_CpuBox/) ![](./Opgaver/004_CpuBox/Images/Body_BOX/Body_BOX_Pocket_2022-11-19_22-20-50.png)
 
+# Ender 5 Pro Plus
+
+## Bed Leveling Guide
+
+* [Creality](https://www.youtube.com/@Creality3D)
+  * [Creality Ender-5 Plus Bltouch Leveling Tutorial (2019)](https://www.youtube.com/watch?v=zSOVAdKw4ss)
+* Kersey Fabrications
+  * [Ender 5 Plus Bed Leveling Guide](https://www.youtube.com/watch?v=kdQ_0IvolnE)
+  * Test Prints:
+    * [200mm Simple Test Pattern / Calibration](https://www.thingiverse.com/thing:3058427)
+* [Teaching Tech](https://www.youtube.com/@TeachingTech)
+  * [Bed levelling for beginners to achieve a perfect first layer](https://www.youtube.com/watch?v=Ze36SX1xzOE)
+    * [First layer tab of calibration website:]https://teachingtechyt.github.io/calibration.html#firstlayer)
+    * [Bed Levelling X](https://www.thingiverse.com/thing:4077747) 
+
 # 3D-Printer på vej
 
 ![3D-Printer](./Images/3D-Printer.png)
