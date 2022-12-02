@@ -60,8 +60,14 @@ M205 X8.00 Y8.00 Z0.40 E5.00 ;Setup Jerk
 M220 S100 ;Reset Feedrate
 M221 S100 ;Reset Flowrate
 
+;*** Start Preheating ***
+M140 S{material_bed_temperature}; the bed
+M104 S{material_print_temperature}; the hotend
 G28 ;Home
 M420 S1 Z2 ;Enable ABL using saved Mesh and Fade Height
+M190 S{material_bed_temperature}; bed wait
+M109 S{material_print_temperature}; hotend wait
+;*** End Preheating
 
 G92 E0 ;Reset Extruder
 G1 Z2.0 F3000 ;Move Z Axis up
