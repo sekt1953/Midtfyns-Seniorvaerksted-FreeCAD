@@ -2,6 +2,8 @@
 
 ![Creality Ender 5 Plus](./Image/Creality-Ender-5-Plus-510x510.webp)
 
+## Cura Settings
+
 [Ultimaker Cura Settings for Creality Ender 5 Plus](./PrinterSettingsCura.md)
 
 ## Bed leveling
