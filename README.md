@@ -8,6 +8,13 @@ Dette Repo er lavet for deltager i FreeCad 3D kursus hos Midtfyns Seniorværkste
 Sådan at deltager i vores kursus, kan finde opgaverne når de er kommet hjem fra kursus, og gerne vil arbejde videre; men alle som finder denne sider er velkommen til at lære fra den.  
 Svenn-Erik K. Thomsen
 
+## Creality Ender 5 Plus - Vores nye Printer
+
+[![3D-Printer](./3D-Printer/CR-Ender5_Pro_Plus/Image/Creality-Ender-5-Plus-510x510.webp)](./3D-Printer/CR-Ender5_Pro_Plus/README.md)
+
+### [Se mere her](./3D-Printer/CR-Ender5_Pro_Plus/README.md)
+
+
 ## Nyttige Link
 
 * [FreeCAD](https://www.freecadweb.org/)
@@ -59,8 +66,3 @@ I opgave 3 skal vi prøve om der er en nemmere måde at tegne vores Alu-Profile,
 
 <HR>
 
-# Ender-5 Plus Vores nye Printer
-
-![3D-Printer](./3D-Printer/CR-Ender5_Pro_Plus/Image/Creality-Ender-5-Plus-510x510.webp)
-
-## [Se mere her](./3D-Printer/CR-Ender5_Pro_Plus/README.md)
