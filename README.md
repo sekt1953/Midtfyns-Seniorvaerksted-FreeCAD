@@ -12,8 +12,10 @@ Svenn-Erik K. Thomsen
 
 [![3D-Printer](./3D-Printer/CR-Ender5_Pro_Plus/Image/Creality-Ender-5-Plus-510x510.webp)](./3D-Printer/CR-Ender5_Pro_Plus/README.md)
 
-### [Se mere her](./3D-Printer/CR-Ender5_Pro_Plus/README.md)
+### [Mere om vores 3D-Printer her](./3D-Printer/CR-Ender5_Pro_Plus/README.md)
 
+
+# FreeCAD
 
 ## Nyttige Link
 
@@ -26,13 +28,13 @@ Svenn-Erik K. Thomsen
   * [MangoJelly Solutions](https://www.youtube.com/c/MangoJellySolutions/playlists)
     * [FreeCAD 0.20 For Beginners](https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC)
 
-# Mine FreeCAD Settings:
+## Mine FreeCAD Settings:
 
-## [FreeCAD's interface, Klik Her](./FreeCAD_%20interface.md)
+### [FreeCAD's interface, Klik Her](./FreeCAD_%20interface.md)
 
-## [Preferences settings, Klik Her](./PreferencesSettings.md)  
+### [Preferences settings, Klik Her](./PreferencesSettings.md)  
 
-## [View Toolbars settings, Klik Her](./ViewToolbarsSettings.md)
+### [View Toolbars settings, Klik Her](./ViewToolbarsSettings.md)
 
 # Opgaver i PartDesign Workbench & Sketcher Workbench
 
