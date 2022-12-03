@@ -13,6 +13,21 @@
   * [Creality Ender-5 Plus Bltouch Leveling Tutorial (2019)](https://www.youtube.com/watch?v=zSOVAdKw4ss)
   * [A2020070762Z Ender-5 Plus.mp4](https://drive.google.com/file/d/1851mAZ8tfC0EvQVRBCnmnSOjeXA4_jM4/view?usp=share_link)
 
+### Flere Guide
+
+* [Creality](https://www.youtube.com/@Creality3D)
+  * [Creality Ender-5 Plus Bltouch Leveling Tutorial (2019)](https://www.youtube.com/watch?v=zSOVAdKw4ss)
+* Kersey Fabrications
+  * [Ender 5 Plus Bed Leveling Guide](https://www.youtube.com/watch?v=kdQ_0IvolnE)
+  * Test Prints:
+    * [200mm Simple Test Pattern / Calibration](https://www.thingiverse.com/thing:3058427)
+    * [Bed Level & Filament Speed Test](https://www.thingiverse.com/thing:5002169)
+* [Teaching Tech](https://www.youtube.com/@TeachingTech)
+  * [Bed levelling for beginners to achieve a perfect first layer](https://www.youtube.com/watch?v=Ze36SX1xzOE)
+    * [First layer tab of calibration website:]https://teachingtechyt.github.io/calibration.html#firstlayer)
+    * [Bed Levelling X](https://www.thingiverse.com/thing:4077747) 
+
+
 ## Custom Firmware Update
 
 * Custom Firmware Update Videos
