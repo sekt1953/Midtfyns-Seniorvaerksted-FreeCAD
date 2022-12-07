@@ -36,3 +36,7 @@
   * [Firmware Download](https://www.creality3dofficial.com/pages/firmware-files-download-troubleshooting)
   * Google Drev
     * [Ender-5 Plus](https://drive.google.com/drive/folders/16596EvFWv9C9ClbavmHPc4J3MJ4_N3h_)
+
+## Noget om G-code
+
+* [Get more from your slicer using variables and conditional gcode](https://i.ytimg.com/an_webp/rsMm2tgiWew/mqdefault_6s.webp?du=3000&sqp=CPSlw5wG&rs=AOn4CLCSsUHTwOFp6WRVoqQ1WP8IVHr9lQ "Teaching Tech")
