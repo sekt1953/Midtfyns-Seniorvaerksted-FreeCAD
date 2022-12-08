@@ -2,10 +2,24 @@
 
 Kilde: https://forum.freecadweb.org/viewtopic.php?t=51668
 
+## Farver tilpasset i FreeCad:
+
+* Preferences
+  * Display
+    * Background color
+      * Simple color
+        * HTML: #7d8ca3
+  * Sketcher
+    * Color
+      * Expression dependent constraint
+        * HTML: #0afff7
+
 ## Slutresultat
+
 ![Slutresultat](./Images/Slutresultat_2022-12-08%2019-19-12.png)
 
 ## Sketch
+
 ![Sketch](./Images/Sketch_2022-12-08_19-27-14.png)  
 
 ### Sketch_rod_radius 
