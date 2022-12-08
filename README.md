@@ -66,5 +66,7 @@ I opgave 3 skal vi prøve om der er en nemmere måde at tegne vores Alu-Profile,
 
 ## [Opgave 004, Sub_Shape_Binder, AdditivePipe & LinearPattern](./Opgaver/004_CpuBox/) ![](./Opgaver/004_CpuBox/Images/Body_BOX/Body_BOX_Pocket_2022-11-19_22-20-50.png)
 
+## [Opgave 007 - Simple fully parametric design with named constraints](./Opgaver/007%20Simple%20fully%20parametric%20design%20with%20named%20constraints/README.md) ![Opgave 007 - Simple fully parametric design with named constraints](./Opgaver/007%20Simple%20fully%20parametric%20design%20with%20named%20constraints/Images/Slutresultat_2022-12-08%2019-19-12.png))
+
 <HR>
 
