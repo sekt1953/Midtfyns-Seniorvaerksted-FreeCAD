@@ -40,3 +40,4 @@
 ## Noget om G-code
 
 * [Get more from your slicer using variables and conditional gcode](https://i.ytimg.com/an_webp/rsMm2tgiWew/mqdefault_6s.webp?du=3000&sqp=CPSlw5wG&rs=AOn4CLCSsUHTwOFp6WRVoqQ1WP8IVHr9lQ "Teaching Tech")
+  * [Cura list of replacement patterns](http://files.fieldofview.com/cura/Replacement_Patterns.html)
