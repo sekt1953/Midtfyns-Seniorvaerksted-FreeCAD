@@ -58,5 +58,5 @@ Kilde: https://forum.freecadweb.org/viewtopic.php?t=51668
 
 ## Sketch001_Fillet
 
-Radius: Sketch.Constraints.outer_ring_thickness / 4
-![](./Images/Fillet_2022-12-08_19-49-30.png)
+* Radius: Sketch.Constraints.outer_ring_thickness / 4
+* ![Fillet](./Images/Fillet_2022-12-08_19-49-30.png)
