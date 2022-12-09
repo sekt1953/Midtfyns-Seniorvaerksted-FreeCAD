@@ -60,3 +60,16 @@ Kilde: https://forum.freecadweb.org/viewtopic.php?t=51668
 
 * Radius: Sketch.Constraints.outer_ring_thickness / 4
 * ![Fillet](./Images/Fillet_2022-12-08_19-49-30.png)
+
+# Opgave 007b
+
+## Spreadsheet
+
+* Alias
+  * ![Spreadsheet sp_rod_radius](./Images/Spreadsheet_01_2022-12-09_09-19-35.png)
+  * ![Spreadsheet sp_pad_length](./Images/Spreadsheet_02_2022-12-09_09-26-10.png)
+  * ![Spreadsheet sp_screw_diameter](./Images/Spreadsheet_03_2022-12-09_09-27-01.png)
+  * ![Spreadsheet sp_pad001_length](./Images/Spreadsheet_04_2022-12-09_09-27-33.png)
+  * ![Spreadsheet sp_chamfer_size](./Images/Spreadsheet_05_2022-12-09_09-27-41.png)
+* Displays unit
+  * ![Spreadsheet display unit](./Images/Spreadsheet_06_2022-12-09_09-29-55.png)
