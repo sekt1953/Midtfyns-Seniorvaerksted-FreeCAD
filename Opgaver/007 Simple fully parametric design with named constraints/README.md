@@ -73,3 +73,7 @@ Kilde: https://forum.freecadweb.org/viewtopic.php?t=51668
   * ![Spreadsheet sp_chamfer_size](./Images/Spreadsheet_05_2022-12-09_09-27-41.png)
 * Displays unit
   * ![Spreadsheet display unit](./Images/Spreadsheet_06_2022-12-09_09-29-55.png)
+
+## Formelsamling
+
+[matematikbankensformelsamling.pdf](http://www.matematikbanken.dk/matematikbankensformelsamling.pdf)
