@@ -65,6 +65,11 @@ Kilde: https://forum.freecadweb.org/viewtopic.php?t=51668
 
 ## Spreadsheet
 
+* Kilde
+  * [FreeCAD Expressions](https://wiki.freecadweb.org/Expressions)
+  * [FreeCAD Spreadsheet Tutorial](https://www.youtube.com/watch?v=dzDP8PC-tdU)
+  * [matematikbankensformelsamling.pdf](http://www.matematikbanken.dk/matematikbankensformelsamling.pdf)
+
 * Alias
   * ![Spreadsheet sp_rod_radius](./Images/Spreadsheet_01_2022-12-09_09-19-35.png)
   * ![Spreadsheet sp_pad_length](./Images/Spreadsheet_02_2022-12-09_09-26-10.png)
@@ -74,6 +79,5 @@ Kilde: https://forum.freecadweb.org/viewtopic.php?t=51668
 * Displays unit
   * ![Spreadsheet display unit](./Images/Spreadsheet_06_2022-12-09_09-29-55.png)
 
-## Formelsamling
 
-[matematikbankensformelsamling.pdf](http://www.matematikbanken.dk/matematikbankensformelsamling.pdf)
+
