@@ -69,6 +69,7 @@ Kilde: https://forum.freecadweb.org/viewtopic.php?t=51668
   * [FreeCAD Expressions](https://wiki.freecadweb.org/Expressions)
   * [FreeCAD Spreadsheet Tutorial](https://www.youtube.com/watch?v=dzDP8PC-tdU)
   * [matematikbankensformelsamling.pdf](http://www.matematikbanken.dk/matematikbankensformelsamling.pdf)
+    * Se side 68 i formelsamlingen
 
 * Alias
   * ![Spreadsheet sp_rod_radius](./Images/Spreadsheet_01_2022-12-09_09-19-35.png)
