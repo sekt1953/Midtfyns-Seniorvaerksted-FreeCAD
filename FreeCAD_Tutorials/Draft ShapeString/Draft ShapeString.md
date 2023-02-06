@@ -28,9 +28,9 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
   * Make sure nothing is selected in the tree view.
   * Establish the working plane 
     * by clicking 
-      * ![working plane](./Image/WorkingPlane_1.png). 
+    * ![working plane](./Image/WorkingPlane_1.png). 
     * SelectPlane and pressing  Top (XY)
-      * ![WorkingPlane_3](./Image/WorkingPlane_3.png)
+    * ![WorkingPlane_3](./Image/WorkingPlane_3.png)
 * Insert the text **"FreeCAD"**.
   * Click on **Shape from Text** icon. ![Shape from Text](./Image/ShapeFromText.png)
   * ShapeString
@@ -63,11 +63,16 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
 ## Positioning the solid text in 3D space
 
 * Switch to the Sketcher Workbench.
-  * In the tree view, select Extrude, and press Space in the keyboard to make it visible.
-  * With Extrude still selected, in the Data tab of the property editor, click on the Placement value so the ellipsis button ... appears on the right and click on that button.
-    * Tick the option Apply incremental changes.
-    * Change the Rotation to Rotation axis with angle; Axis to Z (by setting the X, Y and Z values of the axis inputboxes to 0, 0 and 1 respectively, Z is the third inputbox), and Angle to 90 deg, then click on Apply . This will apply a rotation around the Z-axis, and will reset the Angle field to zero.
-    * Change the Rotation to Rotation axis with angle; Axis to Y (by setting the X, Y and Z values of the axis inputboxes to 0, 1 and 0 respectively), and Angle to 45 deg, then click on Apply . This will apply a rotation around the Y-axis, and will reset the Angle field to zero.
+  * In the tree view, select Extrude, in the Data tab of the property editor, click on the Placement value so the ellipsis button **[...]** appears on the right and **click on that button**.
+    * Tick the option **Apply incremental changes**.
+    * Change the Rotation to **Rotation axis with angle**;
+      * Axis to Z, 
+      * and Angle to **90 deg**, 
+      * then click on **[Apply]. This will apply a rotation around the Z-axis, and will reset the Angle field to zero.
+    * Change the Rotation to 
+      * Rotation axis with angle **Axis to Y**
+      * and Angle to **45 deg**, 
+      * then click on Apply . This will apply a rotation around the Y-axis, and will reset the Angle field to zero.
     * Click on OK to close the dialog.
 
 ## Create the basic shape
