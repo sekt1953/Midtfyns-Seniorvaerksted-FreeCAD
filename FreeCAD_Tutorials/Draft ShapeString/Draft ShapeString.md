@@ -41,7 +41,7 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
     * Press [OK] . This will create a ShapeString object.
   * Recompute the document by pressing [Refresh]. ![Refresh](./Image/Refresh.png)
 * Measure Text Length
-  * To see the ShapeString from above change the view by pressing [Top (XY)] , or [2] in the keyboard.
+  * To see the ShapeString from above change the view by pressing [Top (XY)] , or [2] in the keyboard. ![TotView](./Image/TopView.png)
   * Select **Measure distance** ![Measure distance](./Image/MeasureDistance.png)
     * Start from front **F** in FreeCAD to Back of **D** in FreeCAD I get a distance of 26,90 mm
 * To restore the view to isometric, press [View isometric] , or [0} in the keyboard.
@@ -50,14 +50,17 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
 ## Create the solid 3D text
 
 * Switch back to the **Part Workbench**.
-  * In the **tree view**, select **ShapeString**, then press **[Extrude]** .
+  * In the **tree view**, select **ShapeString**, then press **[Extrude]**. ![Extrude](./Image/Extrude.png)
+  * ![ExtrudeTaskPanel](./Image/ExtrudeTaskPanel.png)
   * In the **Extrude** task panel go to 
     * **Direction**, choose **Along normal**;
     * **Length**, set **Along** to 2 mm;
     * tick the **Create solid** option.
   * Press OK . This will create an Extrude object.
-  * In the tree view, select Extrude, in the View tab change the value of Line Width to 2.0.
+  * Hide Distance by selecting in Tree view and click [Space]
+  * ![ExtrudeText](./Image/ExtrudeText.png)
 
+  
 ## Positioning the solid text in 3D space
 
 * Switch to the Sketcher Workbench.
