@@ -60,7 +60,6 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
   * Hide Distance by selecting in Tree view and click [Space]
   * ![ExtrudeText](./Image/ExtrudeText.png)
 
-  
 ## Positioning the solid text in 3D space
 
 * Switch to the Sketcher Workbench.
