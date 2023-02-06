@@ -83,22 +83,24 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
 
 ## Create the basic shape
 
-* Insert a primitive cube by clicking on Box .
-  * Select Cube in the tree view.
-  * Change the dimensions in the Data tab of the property editor.
-  * Change Width to 31 mm.
-* Create a chamfer.
-  * Select the upper edge (Edge6) on the front face of the Cube in the 3D view.
-  * Press Chamfer .
-  * In the Chamfer edges task panel go to Selection, choose Select edges. As Chamfer type choose Equal distance, then set Length to 5 mm.
-  * Press OK . This will create a Chamfer object.
-  * In the tree view, select Chamfer, in the View tab change the value of Line Width to 2.0.
+* Switch back to the **Part Workbench**.
+  * Insert a **primitive cube** by clicking on **Box**. ![PrimitiveCube](./Image/PrimitiveCube.png)
+    * Select Cube in the tree view.
+    * Change the dimensions in the **Data tab** of the property editor.
+    * Change **Width** to **31 mm**.
+    * ![BoxDimensions31](./Image/BoxDimensions31.png)
+  * Create a chamfer.
+    * Press **Chamfer**. ![Chamfer](./Image/Chamfer.png)
+    * ![ChamferEdges](./Image/ChamferEdges.png)
+      * In the Chamfer edges task panel go to Selection, choose **Select edges**. 
+      * As Chamfer type choose **Equal distance**, then set Length to **5 mm**.
+      * Press **[OK}** . This will create a Chamfer object.
+      * ![Chamfer object](./Image/ChamferObject.png)
 
 ## Insert auxiliary sketch for positioning
 
 Now we will draw a simple sketch that will be used as auxiliary geometry to position the ShapeString extrusion.
 
-* In the tree view, select Extrude, and press Space in the keyboard to make it invisible.
 * Switch to the Sketcher Workbench.
 * In the tree view, select Chamfer, and press Space in the keyboard to make it visible.
   * Choose the sloped face created by the chamfer operation (Face3).
