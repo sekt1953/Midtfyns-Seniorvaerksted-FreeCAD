@@ -63,17 +63,23 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
 ## Positioning the solid text in 3D space
 
 * Switch to the Sketcher Workbench.
-  * In the tree view, select Extrude, in the Data tab of the property editor, click on the Placement value so the ellipsis button **[...]** appears on the right and **click on that button**.
+  * In the tree view, select Extrude, in the Data tab of the property editor, 
+  * ![PlacementButton](./Image/PlacementButton.png)
+  * click on the Placement value so the ellipsis button **[...]** appears on the right and
+  * **click on that button**.
     * Tick the option **Apply incremental changes**.
     * Change the Rotation to **Rotation axis with angle**;
+    * ![RotationZAxis](./Image/RotationZAxis.png)
       * Axis to Z, 
       * and Angle to **90 deg**, 
       * then click on **[Apply]. This will apply a rotation around the Z-axis, and will reset the Angle field to zero.
     * Change the Rotation to 
+    * ![RotationYAxis](./Image/RotationYAxis.png)
       * Rotation axis with angle **Axis to Y**
       * and Angle to **45 deg**, 
       * then click on Apply . This will apply a rotation around the Y-axis, and will reset the Angle field to zero.
-    * Click on OK to close the dialog.
+    * Click on **[OK]** to close the dialog.
+    * ![PositioningTheSolidText](./Image/PositioningTheSolidText.png)
 
 ## Create the basic shape
 
