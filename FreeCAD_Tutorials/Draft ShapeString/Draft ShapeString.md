@@ -101,15 +101,35 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
 
 Now we will draw a simple sketch that will be used as auxiliary geometry to position the ShapeString extrusion.
 
-* Switch to the Sketcher Workbench.
-* In the tree view, select Chamfer, and press Space in the keyboard to make it visible.
-  * Choose the sloped face created by the chamfer operation (Face3).
-  * Click on NewSketch . In the Sketch attachment dialog, select FlatFace, and press OK .
-  * The view should adjust automatically so that the camera is parallel to the selected face.
-  * Draw a horizontal line in a general position on top of the face. The length is not important; we are just interested in its position.
-  * Constrain the left endpoint to be 2.5 mm away from the local X axis and from the local Y axis, using ConstrainDistanceX and ConstrainDistanceY .
-  * Since the sketch is just an auxiliary object, we don't need to have it fully constrained. You can do this if you wish by assigning a fixed distance, say, 20 mm, again with ConstrainDistanceX .
-  * Close the sketch.
+* Switch to the **Sketcher Workbench**.
+  * Choose the **sloped face** created by the chamfer operation.
+  * ![SketchSlopedFace](./Image/SketchSlopedFace.png)
+  * Click on **NewSketch** .
+    * ![NewSketch](./Image/NewSketch.png)
+    * In the Sketch attachment dialog, select FlatFace,
+    * and press **[OK]** .
+    * The view should adjust automatically so that the camera is parallel to the selected face.
+    * Press **[X Close]**
+    * In the tree view, select Sketch, in the Data tab of the property editor,
+    * ![SketchFlatFace](./Image/SketchFlatFace.png)
+      * click on the **Map Mode** value so the ellipsis button **[...]** appears on the right and
+      * **click on that button**.
+      * ![SketchZDirection](./Image/SketchZDirection.png)
+        * In the **Attachment Offset (in local coordinates**.
+        * Change **z-direction** to **1 mm**
+      * ![SketchMapMode](./Image/SketchMapMode.png)
+  * Draw a horizontal line in a general position on top of the face.
+  * ![SketchHorizontalLine](./Image/SketchHorizontalLine.png)
+    * The length is set to length of Text string (**26,90 mm**); 
+    * Horizontal distance fro center point to Line left endpoint will bee
+      * **(Cube Width - Text length)/2**
+      * **(31mm - 26,90 mm)/2 = 2,05 mm**
+    * Constrain the left endpoint to be
+      * **(Text Height)/2**
+      * **5 mm/2 = 2.5 mm**
+      * away from the local X axis, using Vertical Distance.
+  * [Close] the sketch.
+  * ![SketchCloced](./Image/SketchClosed.png)
 
 ## Move Extruded text to sketch
 
