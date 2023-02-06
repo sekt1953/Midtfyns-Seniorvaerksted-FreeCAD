@@ -19,22 +19,33 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
 
 ## Setup
 
-* Open FreeCAD, create a new empty document with File → New, 
+* Open FreeCAD, create a new empty document with File → New, ![FileNew](./Image/FileNew.png) 
 
 ## Insert the ShapeString
 
 * Switch to the **Draft Workbench**.
+  * ![Draft Workbench](./Image/DraftWorkbench.png)
   * Make sure nothing is selected in the tree view.
-  * Establish the working plane to XY (Top) by clicking on Top (XY). SelectPlane and pressing
+  * Establish the working plane 
+    * by clicking 
+      * ![working plane](./Image/WorkingPlane_1.png). 
+    * SelectPlane and pressing  Top (XY)
+      * ![WorkingPlane_3](./Image/WorkingPlane_3.png)
 * Insert the text **"FreeCAD"**.
-  * Click on **ShapeString** .
-  * Change **String** to **FreeCAD**; change **Height** to **5mm**; change **Tracking to 0mm**.
-  * Make sure Font file points to a valid font, for example, **/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf**. Press the ellipsis **[...]** to open the operating system's dialog to find a font.
-  * Press [Reset point].
-  * Press [OK] . This will create a ShapeString object.
-  * Recompute the document by pressing [Refresh] .
+  * Click on **Shape from Text** icon. ![Shape from Text](./Image/ShapeFromText.png)
+  * ShapeString
+    * ![String** to **FreeCAD](./Image/StringToFreeCAD.png)
+    * Change **String** to **FreeCAD**; change **Height** to **5mm**.
+    * Make sure Font file points to a valid font, for example, **/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf**. Press the ellipsis **[...]** to open the operating system's dialog to find a font.
+    * Press [Reset point].
+    * Press [OK] . This will create a ShapeString object.
+  * Recompute the document by pressing [Refresh]. ![Refresh](./Image/Refresh.png)
+* Measure Text Length
   * To see the ShapeString from above change the view by pressing [Top (XY)] , or [2] in the keyboard.
-  * To restore the view to isometric, press [View isometric] , or [0} in the keyboard. Text created as a ShapeString, that is, as a collection of edges in a plane.
+  * Select **Measure distance** ![Measure distance](./Image/MeasureDistance.png)
+    * Start from front **F** in FreeCAD to Back of **D** in FreeCAD I get a distance of 26,90 mm
+* To restore the view to isometric, press [View isometric] , or [0} in the keyboard.
+  * ![Distance](./Image/Distance.png)
 
 ## Create the solid 3D text
 
