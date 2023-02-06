@@ -74,3 +74,38 @@ the 3D view so that all elements are seen in the view.
   * In the Chamfer edges task panel go to Selection, choose Select edges. As Chamfer type choose Equal distance, then set Length to 5 mm.
   * Press OK . This will create a Chamfer object.
   * In the tree view, select Chamfer, in the View tab change the value of Line Width to 2.0.
+
+## Insert auxiliary sketch for positioning
+
+Now we will draw a simple sketch that will be used as auxiliary geometry to position the ShapeString extrusion.
+
+* In the tree view, select Extrude, and press Space in the keyboard to make it invisible.
+* Switch to the Sketcher Workbench.
+* In the tree view, select Chamfer, and press Space in the keyboard to make it visible.
+  * Choose the sloped face created by the chamfer operation (Face3).
+  * Click on NewSketch . In the Sketch attachment dialog, select FlatFace, and press OK .
+  * The view should adjust automatically so that the camera is parallel to the selected face.
+  * Draw a horizontal line in a general position on top of the face. The length is not important; we are just interested in its position.
+  * Constrain the left endpoint to be 2.5 mm away from the local X axis and from the local Y axis, using ConstrainDistanceX and ConstrainDistanceY .
+  * Since the sketch is just an auxiliary object, we don't need to have it fully constrained. You can do this if you wish by assigning a fixed distance, say, 20 mm, again with ConstrainDistanceX .
+  * Close the sketch.
+
+## Move Extruded text to sketch
+
+* Switch again to the Draft Workbench.
+  * Switch to "Wireframe" draw style with View → Draw style → Wireframe, or press the Wireframe button in the view toolbar. This will allow you to see the objects behind other objects.
+  * Make sure the Draft Snap "Snap to endpoint" method is active. This can be done from the menu Draft → Snapping → Toggle On/Off, and then → Endpoint, or by pressing the ToggleSnap and Snap endpoint buttons in the Snap toolbar.
+  * In the tree view, select Extrude.
+  * Click on Move .
+  * In the 3D view click on the upper left corner point of the Extrude object (1), and then click on the leftmost point in the line drawn with the sketcher (2).
+  * If Snap endpoint is active, as soon as you move the pointer close to a vertex, you should see that it attaches to it exactly.
+  * The extruded text should now be inside the body of the Fillet object.
+
+## Creating engraved text
+
+* Switch back to the Part Workbench.
+  * Switch to "As is" draw style with View → Draw style → As is, or press the As is button in the view toolbar. This will show all objects with the normal shading and color.
+  * In the tree view, select Sketch, and press Space in the keyboard to make it invisible.
+* In the tree view select Chamfer first, and then Extrude.
+  * Then press Cut . This will create a Cut object. This is the final object.
+  * In the tree view, select Cut, in the View tab change the value of Line Width to 2.0.
