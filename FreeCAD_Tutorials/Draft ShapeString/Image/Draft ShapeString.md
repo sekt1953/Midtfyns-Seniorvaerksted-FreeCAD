@@ -19,12 +19,7 @@ To use ShapeStrings inside the PartDesign Workbench, the process is essentially 
 
 ## Setup
 
-* Open FreeCAD, create a new empty document with File → New, and switch to the **Part Workbench**.
-  * Press the **View isometric button**, or **press 0** in the numerical pad of your
-keyboard, to change the view to isometric to visualize the 3D solids better.
-  * Press the **View fit all button** whenever you add objects in order to pan and zoom
-the 3D view so that all elements are seen in the view.
-  * Hold **Ctrl while you click to select multiple items**. If you selected something wrong or want to de-select everything, just click on empty space in the 3D view.
+* Open FreeCAD, create a new empty document with File → New, 
 
 ## Insert the ShapeString
 
