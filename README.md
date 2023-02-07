@@ -84,3 +84,5 @@ Jeg har opdateret vejledningen fra [https://wiki.freecad.org/Draft_ShapeString_t
 ![Draft ShapeString tutorial](./FreeCAD_Tutorials/Draft%20ShapeString/Image/EndResult.png)
 
 Du finder min vejledning her: [Draft ShapeString tutorial](./FreeCAD_Tutorials/Draft%20ShapeString/Draft%20ShapeString.md)
+
+FreeCad-filer(.FCStd) Og Images filer brugt i vejledningen (.png) finder du her: [Filer](./FreeCAD_Tutorials/Draft%20ShapeString/) 
