@@ -147,10 +147,11 @@ Now we will draw a simple sketch that will be used as auxiliary geometry to posi
       * ![DraftMoveText](./Image/DraftMoveText.png)
       * If Snap endpoint is active, as soon as you move the pointer close to a vertex, you should see that it attaches to it exactly.
       * The extruded text should now be inside the body of the Fillet object.
+      * ![Text Moved](./Image/DraftTextMoved.png)
 
 ## Creating engraved text
 
-* Switch back to the Part Workbench.
+* Switch back to the **Part Workbench**.
   * Switch to "As is" draw style with View → Draw style → As is, or press the As is button in the view toolbar. This will show all objects with the normal shading and color.
   * In the tree view, select Sketch, and press Space in the keyboard to make it invisible.
 * In the tree view select Chamfer first, and then Extrude.
