@@ -133,14 +133,20 @@ Now we will draw a simple sketch that will be used as auxiliary geometry to posi
 
 ## Move Extruded text to sketch
 
-* Switch again to the Draft Workbench.
-  * Switch to "Wireframe" draw style with View → Draw style → Wireframe, or press the Wireframe button in the view toolbar. This will allow you to see the objects behind other objects.
-  * Make sure the Draft Snap "Snap to endpoint" method is active. This can be done from the menu Draft → Snapping → Toggle On/Off, and then → Endpoint, or by pressing the ToggleSnap and Snap endpoint buttons in the Snap toolbar.
-  * In the tree view, select Extrude.
-  * Click on Move .
-  * In the 3D view click on the upper left corner point of the Extrude object (1), and then click on the leftmost point in the line drawn with the sketcher (2).
-  * If Snap endpoint is active, as soon as you move the pointer close to a vertex, you should see that it attaches to it exactly.
-  * The extruded text should now be inside the body of the Fillet object.
+* Switch again to the **Draft Workbench**.
+  * Switch to **Wireframe** 
+    * draw style with **View → Draw style → Wireframe**, 
+    * or press the **V,3**. This will allow you to see the objects behind other objects.
+  * Make sure the **Draft Snap "Snap to endpoint"** method is active.
+  * ![Snap to endpoint](./Image/SnapEndpoint.png)
+    * This can be done by pressing the **ToggleSnap** and **Snap endpoint buttons** in the **Snap toolbar**.
+  * In the **tree view**, select **Extrude**.
+  * ![TreeViewExtrude](./Image/TreeViewExtrude.png)
+    * Click on **Move**. ![Draft Move](./Image/DraftMove.png)
+      * In the 3D view **click on the upper left corner point of the Extrude object (1)**, and then **click on the leftmost point in the line drawn with the sketcher (2)**.
+      * ![DraftMoveText](./Image/DraftMoveText.png)
+      * If Snap endpoint is active, as soon as you move the pointer close to a vertex, you should see that it attaches to it exactly.
+      * The extruded text should now be inside the body of the Fillet object.
 
 ## Creating engraved text
 
