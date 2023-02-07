@@ -75,3 +75,12 @@ I opgave 3 skal vi prøve om der er en nemmere måde at tegne vores Alu-Profile,
 
 <HR>
 
+## FreeCAD Tutorials
+
+### Draft ShapeString tutorial
+
+Jeg har opdateret vejledningen fra [https://wiki.freecad.org/Draft_ShapeString_tutorial](https://wiki.freecad.org/Draft_ShapeString_tutorial) så den passer til FreeCAD version 0.20.2.
+
+![Draft ShapeString tutorial](./FreeCAD_Tutorials/Draft%20ShapeString/Image/EndResult.png)
+
+Du finder min vejledning her: [Draft ShapeString tutorial](./FreeCAD_Tutorials/Draft%20ShapeString/Draft%20ShapeString.md)
