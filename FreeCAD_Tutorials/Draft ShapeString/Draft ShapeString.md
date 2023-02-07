@@ -2,6 +2,8 @@
 
 Source: [Draft ShapeString tutorial - FreeCAD Documentation](https://wiki.freecad.org/Draft_ShapeString_tutorial)
 
+## ![Result](./Image/EndResult.png)
+
 ## Introduction
 
 This tutorial was originally written by Roland Frank ( † 2017, r-
@@ -152,8 +154,12 @@ Now we will draw a simple sketch that will be used as auxiliary geometry to posi
 ## Creating engraved text
 
 * Switch back to the **Part Workbench**.
-  * Switch to "As is" draw style with View → Draw style → As is, or press the As is button in the view toolbar. This will show all objects with the normal shading and color.
-  * In the tree view, select Sketch, and press Space in the keyboard to make it invisible.
-* In the tree view select Chamfer first, and then Extrude.
-  * Then press Cut . This will create a Cut object. This is the final object.
-  * In the tree view, select Cut, in the View tab change the value of Line Width to 2.0.
+  * Switch to **As is** draw style with **View → Draw style → As is**, or press the Keyboard **V,1**. This will show all objects with the normal shading and color.
+  * In the **tree view**, select **Sketch**, and press **[Space]** in the keyboard to make it invisible.
+* In the **tree view** select **Chamfer first**, and **then Extrude**.
+* ![Cut](./Image/SelectCut.png)
+  * Then press **Cut**. ![Cut](./Image/PartCut.png)
+  * This will create a **Cut object**. This is the final object.
+  * ![Cut Object](./Image/PathCutObject.png)
+
+![Result](./Image/EndResult.png)
