@@ -14,6 +14,9 @@ Svenn-Erik K. Thomsen
 
 ### [Mere om vores 3D-Printer her](./3D-Printer/CR-Ender5_Pro_Plus/README.md)
 
+## Filement
+
+Indtil nu har vi brugt Premium PLA fra Spectrum.
 
 # FreeCAD
 
