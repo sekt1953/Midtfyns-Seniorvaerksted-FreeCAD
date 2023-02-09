@@ -20,7 +20,7 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 
 |Filement Information |Filement Print settings |
 |:---:|:---:|
-|![Filement](./Images/Filement_1.png)|![](./Images/Filement_2.png)| 
+|![Information](./Images/Filement_1.png)|![settings](./Images/Filement_2.png)| 
 
 # FreeCAD
 
