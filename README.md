@@ -22,6 +22,11 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 |:---:|:---:|
 |![Information](./Images/Filement_1.png)|![settings](./Images/Filement_2.png)| 
 
+* [Spectrum Desktop Filament](https://spectrumfilaments.com/en/products-serie/desktopline/) 
+  * [Web Shop, PLA 1-2 Kg](https://shop.spectrumfilaments.com/eng_m_PLA-1630.html?filter_traits[51]=107,131&filter_traits[19]=20)
+  * [PLA Premium](https://cdn.3dstore.dk/wp-content/uploads/2021/03/Spectrum_Catalogue_2019.pdf)
+    * [TECHNICAL DATA SHEET](https://spectrumfilaments.com/wp-content/uploads/2021/12/en_tds_spectrum_pla_premium.pdf)
+
 # FreeCAD
 
 ## Nyttige Link
