@@ -98,3 +98,13 @@ Jeg har opdateret vejledningen fra [https://wiki.freecad.org/Draft_ShapeString_t
 Du finder min vejledning her: [Draft ShapeString tutorial](./FreeCAD_Tutorials/Draft%20ShapeString/Draft%20ShapeString.md)
 
 FreeCad-filer(.FCStd) Og Images filer brugt i vejledningen (.png) finder du her: [Filer](./FreeCAD_Tutorials/Draft%20ShapeString/) 
+
+
+### Flere Videoer om Shapebinder
+
+* YouTube
+  * [FreeCAD: Easy Parametric Text around a circle or ring using a shapestring](https://www.youtube.com/watch?v=AJD5bFa8m3I)
+  * [FreeCAD Curves Workbench - Project Text Perpendicular To Surface](https://www.youtube.com/watch?v=3DHeM8fpx1E)
+  * [Freecad tips and tricks (#4.1): Mapping text to a curve surface](https://www.youtube.com/watch?v=yV26cig0p4I&list=PLx98w64d9GuM5RUTP373VxUmqCTVKDLYd&index=5)
+  * [Freecad tips and tricks (#4.2): Mapping a logo to a curve surface](https://www.youtube.com/watch?v=x8ObvOhdiuE)
+  * [FreeCAD: Easily Add Text / Numbers to Faces in Part Design. Beginners Dungeon Masters Dice](https://www.youtube.com/watch?v=IwcT72R06ok)
