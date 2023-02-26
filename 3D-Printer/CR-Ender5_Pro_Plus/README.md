@@ -49,3 +49,10 @@ Original Hot End Fix Creality, Creality NEO, Tevo Tornado, Tronxy, JG Aurora, Er
 * ![Hot_End_Fix 1](../Original_Hot_End_Fix_Creality__Creality_NEO__Tevo_Tornado__Tronxy__JG_Aurora__Eryone_ThInker__MP_mini__Sovol_S4_3203831/Sk%C3%A6rmbillede%20fra%202023-02-26%2021-05-27.png)
 * ![Hot_End_Fix 2](../Original_Hot_End_Fix_Creality__Creality_NEO__Tevo_Tornado__Tronxy__JG_Aurora__Eryone_ThInker__MP_mini__Sovol_S4_3203831/HotendDiagram.png)
 * ![Hot_End_Fix 3](../Original_Hot_End_Fix_Creality__Creality_NEO__Tevo_Tornado__Tronxy__JG_Aurora__Eryone_ThInker__MP_mini__Sovol_S4_3203831/hotEndGap.png)
+
+### E3D Hotend
+
+![E3D RapidChange Revo CR](../Original_Hot_End_Fix_Creality__Creality_NEO__Tevo_Tornado__Tronxy__JG_Aurora__Eryone_ThInker__MP_mini__Sovol_S4_3203831/CrealityW4_600x600.webp)
+
+* [RapidChange – Freedom to use the right tool for the job](https://e3d-online.com/blogs/news/rapidchangerevo)
+  * [Revo CR](https://e3d-online.com/products/revo-creality)
