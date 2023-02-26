@@ -41,3 +41,10 @@
 
 * [Get more from your slicer using variables and conditional gcode](https://www.youtube.com/watch?v=rsMm2tgiWew "Teaching Tech")
   * [Cura list of replacement patterns](http://files.fieldofview.com/cura/Replacement_Patterns.html)
+
+## Hot End Fix
+
+* [Thingiverse - 
+Original Hot End Fix Creality, Creality NEO, Tevo Tornado, Tronxy, JG Aurora, Eryone ThInker, MP mini, Sovol S4](https://www.thingiverse.com/thing:3203831)
+* ![](../Original_Hot_End_Fix_Creality__Creality_NEO__Tevo_Tornado__Tronxy__JG_Aurora__Eryone_ThInker__MP_mini__Sovol_S4_3203831/Sk%C3%A6rmbillede%20fra%202023-02-26%2021-05-27.png)
+* ![](../Original_Hot_End_Fix_Creality__Creality_NEO__Tevo_Tornado__Tronxy__JG_Aurora__Eryone_ThInker__MP_mini__Sovol_S4_3203831/HotendDiagram.png)

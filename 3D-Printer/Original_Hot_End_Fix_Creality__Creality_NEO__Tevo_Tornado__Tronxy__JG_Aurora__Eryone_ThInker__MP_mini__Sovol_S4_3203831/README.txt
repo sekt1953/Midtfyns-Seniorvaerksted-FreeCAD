@@ -1,0 +1,1 @@
+Original Hot End Fix Creality, Creality NEO, Tevo Tornado, Tronxy, JG Aurora, Eryone ThInker, MP mini, Sovol S4 by L3D_Help_Guide on Thingiverse: https://www.thingiverse.com/thing:3203831
