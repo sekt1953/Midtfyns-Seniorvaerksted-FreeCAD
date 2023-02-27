@@ -56,3 +56,4 @@ Original Hot End Fix Creality, Creality NEO, Tevo Tornado, Tronxy, JG Aurora, Er
 
 * [RapidChange – Freedom to use the right tool for the job](https://e3d-online.com/blogs/news/rapidchangerevo)
   * [Revo CR](https://e3d-online.com/products/revo-creality)
+  * [E3D Revo™ is great BUT has a dirty secret! (REVIEW)](https://www.youtube.com/watch?v=DdZlBiFajWE "CNC Kitchen")
