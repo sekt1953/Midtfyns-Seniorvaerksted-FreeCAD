@@ -4,6 +4,8 @@ Here I will try to create a fully parametric FreeCAD model, using FreeCAD ver. 0
 
 ## Preferences
 
+### Sketcher
+
 * Sketcher -> Display -> Font size: **17px to 22px**
 * Sketcher -> Colors -> Expression dependent constraint -> HTML: **#ff7f26 to #00ff00**
 * Sketcher -> Colors -> Dimensional constraint -> HTML: **#ff2600 to #00ff00**
@@ -22,9 +24,9 @@ Here I will try to create a fully parametric FreeCAD model, using FreeCAD ver. 0
   * Now save project first time
     * File -> Save As **[Ctrl + Shift + S]**
 
-## Spreadsheet Cell properties
+## Spreadsheet
 
-### Display unit
+### Cell properties -> Display unit
 
 * Now enter some parameter for project
   * Click **Spreadsheet tab sheet**
@@ -38,18 +40,23 @@ Here I will try to create a fully parametric FreeCAD model, using FreeCAD ver. 0
 ### Parameter
 
 ||A|B|C|
-|:---|:---|---:|:---:|
+|---:|:---|---:|:---:|
 |1|**Name (Alias)**|**Value**||
 |2|NotePadWidth|80||
-|3|NotePadHight|80 ||NotePadCutRadius
+|3|NotePadHight|80 ||
 |4|NotePadBorder|2||
 |5|NotePadPadLength|15||
 |6|NotePadCutRadius|5||
-
-|7|NotePadHexagonToolsize|15||
-|8|NotePadHexagonHight|36||
-
-|10|NotePadHexagon1Hole|10||
+|7||||
+|8|NotePadHexagonToolsize|15||
+|9|NotePadHexagonHight|36||
+|10||||
+|11|NotePadHexagon1Hole|10||
+|12|NotePadHexagon2Circle1|2||
+|13|NotePadHexagon2Circle2|9||
+|14|NotePadHexagon2Circle2Hight|18||
+|15|NotePadHexagon2Circle3|9||
+|16|NotePadHexagon2Circle3Hight|18||
 
 ## NotePadHolder
 
