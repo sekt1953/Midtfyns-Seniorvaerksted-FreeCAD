@@ -53,29 +53,31 @@ Here I will try to create a fully parametric FreeCAD model, using FreeCAD ver. 0
 ### Parameter
 
 ||A|B|C|
-|---:|:---|---:|:---:|
-|1|**Name (Alias)**|**Value**||
-|2|**Notepad Box sketch**|||
-|3|NotePadWidth|80||
-|4|NotePadHight|80 ||
-|5|NotePadBorder|2||
-|6|**Notepad Box Extrude**|||
-|7|NotePadPadLength|15||
-|8|**Notepad foot Sketch**|||
-|9|NotePadCutRadius|5||
-|10|**Pencil and pen holder sketch**|||
-|11|HexagonToolsize|15||
-|12|**Pencil and pen holder Extrude**|||
-|13|HexagonPadLenght|36||
-|14|**Pencil Holes Sketch**|||
-|11|Pencil tip lenght|18||
-|15|Pencil1HoleDiameter|10||
-|16|Pencil2TipDiameter|2||
-|17|Pencil2HoleBottomDiameter|8||
-|18|Pencil2HoleTopDiameter|8||
-|16|Pencil3TipDiameter|3||
-|17|Pencil3HoleBottomDiameter|9||
-|18|Pencil3HoleTopDiameter|9||
+|---:|:---|---:|---:|
+|1|**Name (Alias)**|**Value**|
+|2|**Notepad Box sketch**|
+|3|nPadBoxWidth|80|
+|4|nPadBoxHight|80|
+|5|nPadBoxBorder|2|
+|6|**Notepad Box Extrude**|
+|7|nPadBoxPadLength|5|
+|8|**Notepad foot Extrude**|
+|9|nPadFootPadLenght|1|
+|11|**Notepad Cut Sketch**|
+|12|nPadFootCutRadius|5|
+|13|**Pencil and pen holder sketch**|
+|14|nHexagonToolsize|12|
+|15|**Pencil and pen holder Extrude**|
+|16|nHexagonPadLenght|36|
+|17|**Pencil Holes Sketch**|
+|18|nPencil tip lenght |18|
+|19|nPencil1HoleDiameter |10|
+|20|nPencil2TipDiameter |2|
+|21|nPencil2HoleBottomDiameter|8|
+|22|nPencil2HoleTopDiameter|8|
+|23|nPencil3TipDiameter|3|
+|24|nPencil3HoleBottomDiameter|9|
+|25|nPencil3HoleTopDiameter|9|
 
 ## NotePadHolder
 
