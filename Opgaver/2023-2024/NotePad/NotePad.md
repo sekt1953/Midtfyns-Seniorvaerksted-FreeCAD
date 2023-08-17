@@ -63,11 +63,11 @@ Here I will try to create a fully parametric FreeCAD model, using FreeCAD ver. 0
 |7|NotePadPadLength|15||
 |8|**Notepad foot Sketch**|||
 |9|NotePadCutRadius|5||
-|10|**Pencil and pen holder**|||
+|10|**Pencil and pen holder sketch**|||
 |11|HexagonToolsize|15||
 |12|**Pencil and pen holder Extrude**|||
 |13|HexagonPadLenght|36||
-|14|**Pencil Holes**|||
+|14|**Pencil Holes Sketch**|||
 |11|Pencil tip lenght|18||
 |15|Pencil1HoleDiameter|10||
 |16|Pencil2TipDiameter|2||
