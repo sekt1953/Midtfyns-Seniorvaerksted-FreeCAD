@@ -67,13 +67,13 @@ Here I will try to create a fully parametric FreeCAD model, using FreeCAD ver. 0
 |11|HexagonToolsize|15||
 |12|**Pencil and pen holder Extrude**|||
 |13|HexagonPadLenght|36||
-|14||||
+|14|**Pencil Holes**|||
 |11|Pencil tip lenght|18||
 |15|Pencil1HoleDiameter|10||
 |16|Pencil2TipDiameter|2||
 |17|Pencil2HoleBottomDiameter|8||
 |18|Pencil2HoleTopDiameter|8||
-|16|Pencil3TipDiameter|2||
+|16|Pencil3TipDiameter|3||
 |17|Pencil3HoleBottomDiameter|9||
 |18|Pencil3HoleTopDiameter|9||
 
