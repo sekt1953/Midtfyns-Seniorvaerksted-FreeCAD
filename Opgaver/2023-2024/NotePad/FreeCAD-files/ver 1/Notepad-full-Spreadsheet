@@ -1,0 +1,24 @@
+Name (Alias)	Value
+Notepad Box sketch
+nPadBoxWidth	80
+nPadBoxHight	80
+nPadBoxBorder	2
+Notepad Box Extrude
+nPadBoxPadLength	5
+Notepad foot Extrude
+nPadFootPadLenght	1
+Notepad Cut Sketch
+nPadFootCutRadius	5
+Pencil and pen holder sketch
+nHexagonToolsize	12
+Pencil and pen holder Extrude
+nHexagonPadLenght	36
+Pencil Holes Sketch
+nPencil tip lenght 	18
+nPencil1HoleDiameter 	10
+nPencil2TipDiameter 	2
+nPencil2HoleBottomDiameter 	8
+nPencil2HoleTopDiameter 	8
+nPencil3TipDiameter 	3
+nPencil3HoleBottomDiameter 	9
+nPencil3HoleTopDiameter 	9
