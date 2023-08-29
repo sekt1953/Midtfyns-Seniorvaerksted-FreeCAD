@@ -42,9 +42,9 @@ Svenn-Erik K. Thomsen
 |:---:|:---:|
 |![Skab](./Opgaver/2021-2023/003_Sketcher%20Symmetry%20-%20Geometric%20&%20Dimensional%20constraints/Images/Sketch002/20x40_Sketch.png)|![AluProfile](./Opgaver/2021-2023/002_PartDesign-AluProfile/Images/Opgave_002.png)
 
-|Box for ESP32 - 38pin||
-|:---:|:---:|
-|![Skab](./Opgaver/2021-2023/005_Lars_Skjærris/Images/Skærmbillede%20fra%202022-11-27%2020-39-26.png)|![](./Opgaver/2021-2023)
+|Box for ESP32 - Sub_Shape_Binder, AdditivePipe & LinearPattern|
+|:---:|
+|![Skab](./Opgaver/2021-2023/005_Lars_Skjærris/Images/Skærmbillede%20fra%202022-11-27%2020-39-26.png)|
 
 ## Udstyr
 
