@@ -28,6 +28,10 @@ Svenn-Erik K. Thomsen
 
 ### [Opgaver 2023 - 2024](./Opgaver/2023-2024/2023-2024.md)
 
+|Spreadsheet|PartDesign MultiTransform|
+|:---:|:---:|
+|![](./Opgaver/2023-2024/NotePad/Images/Skærmbillede%20fra%202023-08-29%2016-15-28.png)|![](./Opgaver/2023-2024/PapirHolder/Images/Skærmbillede%20fra%202023-08-29%2016-04-38.png)
+
 ### [Opgaver 2021 - 2023](./Opgaver/2021-2023/2021-2023.md)
 
 ## Udstyr
