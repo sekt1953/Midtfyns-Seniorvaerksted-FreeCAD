@@ -2,27 +2,6 @@
 
 Here I will try to create a fully parametric FreeCAD model, using FreeCAD ver. 0.21.0 with Spreadsheet
 
-## Preferences
-
-### General
-
-* General -> Document -> General -> Create new document at start up: **Checked**
-
-### Display
-
-* Display -> Navigation -> Navigation -> 3D Navigation: **Mouse Blender**
-
-### Start
-
-* Start -> Start page option -> Options -> Switch workbench after loading: **Part Design**
-* Start -> Start page option -> Options -> Close start page after loading: **Checked**
-
-### Sketcher
-
-* Sketcher -> Display -> Font size: **17px to 22px**
-* Sketcher -> Colors -> Expression dependent constraint -> HTML: **#ff7f26 to #00ff00**
-* Sketcher -> Colors -> Dimensional constraint -> HTML: **#ff2600 to #00ff00**
-
 # Project
 
 * Open FreeCAD in **[PartDesign Workbench](https://wiki.freecad.org/PartDesign_Workbench)**
