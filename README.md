@@ -67,3 +67,25 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
   * [PLA Premium](https://cdn.3dstore.dk/wp-content/uploads/2021/03/Spectrum_Catalogue_2019.pdf)
     * [TECHNICAL DATA SHEET](https://spectrumfilaments.com/wp-content/uploads/2021/12/en_tds_spectrum_pla_premium.pdf)
 
+## CNC
+
+### CNC Softweare
+
+* [Universal G Code Sender](https://winder.github.io/ugs_website/)
+  * [Download](https://winder.github.io/ugs_website/download/)
+  * [How to install](https://winder.github.io/ugs_website/installing/)
+  * [Usage](https://winder.github.io/ugs_website/usage/)
+* Dave the Woodworker
+  * [CNC Projects](https://www.youtube.com/playlist?list=PLsoi4JfmUr3x11nMnElFrquepj6z0foDL)
+  * [Using Universal G Code Sender for CNC](https://youtu.be/AmHsXaX4Als "Dave the Woodworker")
+* [Fischer 3D](https://www.youtube.com/@fischer3d/playlists)
+  * [Universal G-Code Sender UGS](https://www.youtube.com/playlist?list=PL0LycNfr_SjK8a9Ah5fgdfGTNtlBRVcGw)
+  * [UGS - CNC for beginners - setting macros for different positions](https://youtu.be/xX0QgQEaqBg "Fischer 3D")
+
+## Laser Cutter
+
+### Laser Softweare
+
+* [LightBurn](https://lightburnsoftware.com/)
+  * [Download / Free Trial](https://lightburnsoftware.com/pages/download-trial)
+  * [Video Tutorials](https://lightburnsoftware.com/pages/tutorials)
