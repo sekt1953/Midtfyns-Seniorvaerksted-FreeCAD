@@ -84,6 +84,7 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 * [James Dean Designs](https://www.youtube.com/@JamesDeanDesigns)
   * [Calibrating your CNC axis and steps - Beginners guide](https://youtu.be/nGwUf8uNWBU)
   * [https://www.youtube.com/@JamesDeanDesigns](https://www.youtube.com/playlist?list=PLzIv_J_IBi-T3O_df98cGVoG9P30syrsa)
+  * [Beginners Guide to CNC Bits - Including Speeds and Feeds](https://youtu.be/obwwoEAbBjc)
 
 ## Laser Cutter
 
