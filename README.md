@@ -81,6 +81,9 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 * [Fischer 3D](https://www.youtube.com/@fischer3d/playlists)
   * [Universal G-Code Sender UGS](https://www.youtube.com/playlist?list=PL0LycNfr_SjK8a9Ah5fgdfGTNtlBRVcGw)
   * [UGS - CNC for beginners - setting macros for different positions](https://youtu.be/xX0QgQEaqBg "Fischer 3D")
+* [James Dean Designs](https://www.youtube.com/@JamesDeanDesigns)
+  * [Calibrating your CNC axis and steps - Beginners guide](https://youtu.be/nGwUf8uNWBU)
+  * [https://www.youtube.com/@JamesDeanDesigns](https://www.youtube.com/playlist?list=PLzIv_J_IBi-T3O_df98cGVoG9P30syrsa)
 
 ## Laser Cutter
 
