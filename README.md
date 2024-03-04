@@ -69,7 +69,21 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 
 ## CNC
 
-### CNC Softweare
+### CNC with FreeCAD
+
+* [KTEC DESIGNS](https://www.youtube.com/@KTECDesigns)
+  * [FreeCad Tutorial #7 | How I use the PATH WORKBENCH to make things on my 3018 CNC in FreeCAD](https://youtu.be/XRNnWAUoXrk)
+  * [FreeCad Tutorial #10 | Part 1 | How to use the Path Workbench in FREECAD for acrylic edge lit sign.](https://youtu.be/_ZxM0twbz1Q?list=PL6RKdWYQKxJDpz3tKf82Nfgy9GwzdyQNg)
+  * [FreeCad Tutorial #10 | Part 2 | Modeling the stand for acrylic edge lit sign for 3D printing.](https://youtu.be/ZXwTYLYdh5s?list=PL6RKdWYQKxJDpz3tKf82Nfgy9GwzdyQNg)
+* [Whitman Technological](https://www.youtube.com/@WhitmanTechnological)
+  * [FreeCAD Path Workbench Tutorial - The tutorial nobody asked for...](https://youtu.be/RpNHMKk8z_8)
+  * [Finding PCB Perfection - making circuit boards on a homemade CNC router - Nephele03e02](https://youtu.be/I-4te60dIWs)
+  * [Homemade Steel Frame CNC Router - Design, Build, Test](https://youtu.be/vtPmPFdVZ4g)
+* [Adventures in creation](https://www.youtube.com/@Adventuresincreation)
+  * [Using FreeCAD for engraving text (shape strings) and pictures](https://youtu.be/juzDSwGya1E)
+  * [https://www.youtube.com/@Adventuresincreation](https://www.youtube.com/playlist?list=PL_28gc6LBA1vPO6Onm2hBoO_x_AB8FJQI)
+
+### CNC Software Universal G Code Sender
 
 * [Universal G Code Sender](https://winder.github.io/ugs_website/)
   * [Download](https://winder.github.io/ugs_website/download/)
