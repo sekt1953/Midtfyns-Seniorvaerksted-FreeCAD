@@ -69,6 +69,22 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 
 ## CNC
 
+
+### GRBL
+
+* [GRBL](https://github.com/grbl/grbl)
+  * [Wiki GRBL](https://github.com/grbl/grbl/wiki)
+* [Universal Gcode Sender (UGS) | What To Know | Ooznest](https://youtu.be/ElzJ1Qhz4WE)
+  * [GRBL Settings](https://github.com/gnea/grbl/blob/master/doc/markdown/settings.md)
+  * [GRBL_Settings_Pocket_Guide_Rev_B.pdf](https://www.diymachining.com/downloads/GRBL_Settings_Pocket_Guide_Rev_B.pdf)
+* [Beginners Overview of GRBL Settings $$, $3, $23, $13, $20, $21, $22, $24, $25, $27](https://youtu.be/MJYzm6X-9gw)
+
+### FluidNC // Beginner tutorial // ESP32 GRBL
+
+* [FluidNC // Beginner tutorial // ESP32 GRBL](https://youtu.be/RSuW-UMqJsY)
+  * [Grbl_Esp32](https://github.com/bdring/Grbl_Esp32)
+  * [ESP32 Grbl controller](https://youtu.be/u4hEdR1ZI_I)
+
 ### CNC with FreeCAD
 
 * [sliptonic](https://www.youtube.com/@sliptonic)
