@@ -71,6 +71,8 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 
 ### CNC with FreeCAD
 
+* [sliptonic](https://www.youtube.com/@sliptonic)
+  * [Using FreeCAD version 0.17 Path Workbench](https://www.youtube.com/playlist?list=PLEuOia-QxyFJZSpqb0xOHc9t7MLdCO3io)
 * [KTEC DESIGNS](https://www.youtube.com/@KTECDesigns)
   * [FreeCad Tutorial #7 | How I use the PATH WORKBENCH to make things on my 3018 CNC in FreeCAD](https://youtu.be/XRNnWAUoXrk)
   * [FreeCad Tutorial #10 | Part 1 | How to use the Path Workbench in FREECAD for acrylic edge lit sign.](https://youtu.be/_ZxM0twbz1Q?list=PL6RKdWYQKxJDpz3tKf82Nfgy9GwzdyQNg)
