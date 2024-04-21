@@ -79,7 +79,8 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
   * [GRBL_Settings_Pocket_Guide_Rev_B.pdf](https://www.diymachining.com/downloads/GRBL_Settings_Pocket_Guide_Rev_B.pdf)
 * [Beginners Overview of GRBL Settings $$, $3, $23, $13, $20, $21, $22, $24, $25, $27](https://youtu.be/MJYzm6X-9gw)
 * [Open Source CNC](https://www.youtube.com/@opensourcecnc/playlists)
-
+  * [FreeCAD - Creating 3D Models - Part Design Workbench](https://www.youtube.com/playlist?list=PLaUEbWaf2rhQWIOb8SrPwdokZRuRb7JY8)
+  * [FreeCAD Parametric](https://www.youtube.com/playlist?list=PLaUEbWaf2rhRcKVI0BmaIjIaYItqfy6RN)
 
 ### FluidNC // Beginner tutorial // ESP32 GRBL
 
