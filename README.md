@@ -81,6 +81,8 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 * [Open Source CNC](https://www.youtube.com/@opensourcecnc/playlists)
   * [FreeCAD - Creating 3D Models - Part Design Workbench](https://www.youtube.com/playlist?list=PLaUEbWaf2rhQWIOb8SrPwdokZRuRb7JY8)
   * [FreeCAD Parametric](https://www.youtube.com/playlist?list=PLaUEbWaf2rhRcKVI0BmaIjIaYItqfy6RN)
+  * [FreeCAD CAM Tips](https://www.youtube.com/playlist?list=PLaUEbWaf2rhQQYlrniWFJNxKmyYmNY8Zv)
+  * [FreeCAD CAM](https://www.youtube.com/playlist?list=PLaUEbWaf2rhSGcjQK9LYuL4PkV1GzjeIY)
 
 ### FluidNC // Beginner tutorial // ESP32 GRBL
 
