@@ -78,6 +78,8 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
   * [GRBL Settings](https://github.com/gnea/grbl/blob/master/doc/markdown/settings.md)
   * [GRBL_Settings_Pocket_Guide_Rev_B.pdf](https://www.diymachining.com/downloads/GRBL_Settings_Pocket_Guide_Rev_B.pdf)
 * [Beginners Overview of GRBL Settings $$, $3, $23, $13, $20, $21, $22, $24, $25, $27](https://youtu.be/MJYzm6X-9gw)
+* [Open Source CNC](https://www.youtube.com/@opensourcecnc/playlists)
+
 
 ### FluidNC // Beginner tutorial // ESP32 GRBL
 
