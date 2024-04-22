@@ -1,6 +1,6 @@
 # Grbl-Settings
 
-## Kilde 
+## Kilde
 
 * [www.sainsmart.com](https://www.sainsmart.com/blogs/news/grbl-v1-1-quick-reference)
 
