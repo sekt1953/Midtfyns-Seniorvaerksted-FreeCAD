@@ -134,6 +134,7 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
 
 * [Programming a CNC Router with Linux](https://youtu.be/fFfqWu1rMxk)
   * [Script print3d/print3d.sh](https://github.com/ericomeehan/print3d/blob/main/print3d.sh)
+  * [Grbl Settings](https://www.sainsmart.com/blogs/news/grbl-v1-1-quick-reference)
 
 
 ## Laser Cutter
