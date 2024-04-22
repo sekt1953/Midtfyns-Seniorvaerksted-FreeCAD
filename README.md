@@ -123,6 +123,19 @@ Indtil nu har vi brugt Premium PLA fra Spectrum.
   * [https://www.youtube.com/@JamesDeanDesigns](https://www.youtube.com/playlist?list=PLzIv_J_IBi-T3O_df98cGVoG9P30syrsa)
   * [Beginners Guide to CNC Bits - Including Speeds and Feeds](https://youtu.be/obwwoEAbBjc)
 
+### GRBL Pocket guide
+
+* [Supported_Commands.pdf](https://community.ptc.com/sejnu66972/attachments/sejnu66972/partassemblydesign/31034/2/Supported_Commands.pdf)
+* [GRBL_Settings_Pocket_Guide_Rev_B.pdf](https://www.diymachining.com/downloads/GRBL_Settings_Pocket_Guide_Rev_B.pdf)
+* [GrblPocketReference.pdf](https://lachiver.fr/Accueil/res/GrblPocketReference.pdf)
+* [Mach4-G-and-M-Code-Reference-Manual.pdf](https://machmotion.com/downloads/GCode/Mach4-G-and-M-Code-Reference-Manual.pdf)
+
+### GRBL Script Guide
+
+* [Programming a CNC Router with Linux](https://youtu.be/fFfqWu1rMxk)
+  * [Script print3d/print3d.sh](https://github.com/ericomeehan/print3d/blob/main/print3d.sh)
+
+
 ## Laser Cutter
 
 ### Laser Softweare
