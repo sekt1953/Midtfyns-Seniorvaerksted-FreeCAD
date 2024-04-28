@@ -43,3 +43,8 @@
 |$132|Z Max travel, mm Only for Homing and Soft Limits.|
 
 * XYZmask is a value setting for the X Y and Z axes. Change if an axis is moving in the wrong direction. Value will be 0-7. ** Reporting units are independent of the units set in the Gcode!
+
+## Formel for Steps per mm
+
+* Kilde: [Calibrating your CNC axis and steps - Beginners guide](https://youtu.be/nGwUf8uNWBU?t=661) 
+  * ![Calibrating](./Images/Skærmbillede%20fra%202024-04-28%2015-50-06.png)
