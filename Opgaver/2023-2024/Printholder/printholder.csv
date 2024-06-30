@@ -1,0 +1,10 @@
+offset:	value:
+PCB:
+pcb_height	1.6	0	1.6
+pcb_width	48	0.5	48.5
+pcb_length	133	0.5	133.5
+Suspension:
+sus_bottom_thickness	0.5	0	0.5
+sus_support_width	1	0	1
+sus_support_hight	3	0	3
+sus_wall_thickness	1	0	1
