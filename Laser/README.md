@@ -4,6 +4,8 @@
 
 * Link 
   * [weekly-builds](https://github.com/FreeCAD/FreeCAD-Bundle/releases/tag/weekly-builds)
+* G-code RepRap
+  * [https://reprap.org/wiki/G-code](https://reprap.org/wiki/G-code)
 * Videos
   * [Adventures in creation](https://www.youtube.com/@Adventuresincreation)
     * [FreeCAD for Beginners #68 Desktop Organizer - #freecad #lasercutting #makers](https://youtu.be/BXlJ5ayVH6U)
