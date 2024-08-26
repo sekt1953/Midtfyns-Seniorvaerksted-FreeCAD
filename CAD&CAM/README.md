@@ -1,4 +1,4 @@
-# Laser Cutter
+# FreeCAD CAD&CAM
 
 # FreCAD weekly-builds
 
@@ -12,3 +12,6 @@
     * [GridFinity Parametric File #freecad #cad #design](https://youtu.be/rAv9zGpiyvw)
       * [GridfinityParametric.FCStd](https://www.patreon.com/file?h=110641395&i=20245299)
       * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification)
+  * [Open Source CNC](https://www.youtube.com/@opensourcecnc/playlists)
+    * [FreeCAD CAD&CAM Projects](https://www.youtube.com/playlist?list=PLaUEbWaf2rhQxARGQDp2LS-lfciVMdwvu)
+    * [FreeCAD CAM - Tips](https://www.youtube.com/playlist?list=PLaUEbWaf2rhQQYlrniWFJNxKmyYmNY8Zv)
