@@ -9,7 +9,7 @@
 ### AdditivePipe Spreadsheet Cell properties
 
 |A|B|C|D|
-|:---|:---|:---:|:---:|
+|:---|---:|:---:|:---:|
 |**Alias**|**Content**||**Display unit**|
 |**Base:**||||
 |GridfinityBaseWidth|42.00||mm|
