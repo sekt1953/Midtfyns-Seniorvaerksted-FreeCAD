@@ -10,25 +10,25 @@
 
 |A|B|C|D|
 |:---|---:|:---:|:---:|
-|**Alias**|**Content**||**Display unit**|
+|**Alias**|**Content**|**Display unit**||
 |**Base:**||||
-|GridfinityBaseWidth|42.00||mm|
+|GridfinityBaseWidth|42.00|mm||
 |**AdditivePipe:**||||
-|BaseAdditivePipeRadius|4.00||mm|
-|BaseAdditivePipeWidth|2.85||mm|
-|BaseAdditivePipeHead|2.15||mm|
-|BaseAdditivePipeBody|1.80||mm|
-|BaseAdditivePipeFoot|0.70||mm|
-|BaseAdditivePipeHeigt|=BaseAdditivePipeHead + BaseAdditivePipeBody + BaseAdditivePipeFoot||mm|
-|BaseAdditiveAngle|90.00||deg|
+|BaseAdditivePipeRadius|4.00|mm||
+|BaseAdditivePipeWidth|2.85|mm||
+|BaseAdditivePipeHead|2.15|mm||
+|BaseAdditivePipeBody|1.80|mm||
+|BaseAdditivePipeFoot|0.70|mm||
+|BaseAdditivePipeHeigt|=BaseAdditivePipeHead + BaseAdditivePipeBody + BaseAdditivePipeFoot|mm|Calculated|
+|BaseAdditiveAngle|90.00|deg||
 |**Magnet:**||||
-|MagnetDiameter|6.00||mm|
-|MagnetHoleDiameter|=MagnetDiameter + 0.50|Calculated|mm|
-|MagnetOuterRingDiameter|=MagnetHoleDiameter + 2.00|Calculated|mm|
-|MagnetTicknes|2.00||mm|
-|MagnetHoleDepth|=MagnetTicknes + 0.50|Calculated|mm|
-|MagnetCenterDistance|=GridfinityBaseWidth - BaseAdditivePipeRadius - MagnetHoleDiameter|Calculated|mm|
-|MagnetPadLength|=MagnetHoleDepth + 0.50|Calculated|mm|
+|MagnetDiameter|6.00|mm||
+|MagnetHoleDiameter|=MagnetDiameter + 0.50|mm|Calculated|
+|MagnetOuterRingDiameter|=MagnetHoleDiameter + 2.00|mm|Calculated|
+|MagnetTicknes|2.00|mm||
+|MagnetHoleDepth|=MagnetTicknes + 0.50|mm|Calculated|
+|MagnetCenterDistance|=GridfinityBaseWidth - BaseAdditivePipeRadius - MagnetHoleDiameter|mm|Calculated|
+|MagnetPadLength|=MagnetHoleDepth + 0.50|mm|Calculated|
 
 ### AdditivePipe
 
