@@ -19,6 +19,7 @@
 |BaseAdditivePipeHead|2.15||mm|
 |BaseAdditivePipeBody|1.80||mm|
 |BaseAdditivePipeFoot|0.70||mm|
+|BaseAdditivePipeHeigt|=BaseAdditivePipeHead + BaseAdditivePipeBody + BaseAdditivePipeFoot||mm|
 |BaseAdditiveAngle|90.00||deg|
 |**Magnet:**||||
 |MagnetDiameter|6.00||mm|
