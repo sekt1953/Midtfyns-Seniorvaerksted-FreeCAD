@@ -15,6 +15,8 @@
 
 ## Base-AdditivePipe
 
+![MagnetBase_003.png](./Images/Body-AdditivePipe/MagnetBase_003.png)
+
 ### AdditivePipe Spreadsheet Cell properties
 
 |A|B|C|D|
