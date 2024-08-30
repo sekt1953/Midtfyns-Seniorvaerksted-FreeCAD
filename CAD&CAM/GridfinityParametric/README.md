@@ -23,7 +23,7 @@
 |**Grids:**||||
 |NumberGridX|1||mm|
 |NumberGridY|2||mm|
-|**Bin**||||
+|**Bins:**||||
 |BinSquaresX|2|||
 |BinSquaresY|2|||
 |BinHeight|75||mm|
