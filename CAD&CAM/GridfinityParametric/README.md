@@ -45,7 +45,7 @@
 
 ![](./Images/Body-AdditivePipe/AdditivePipe.png)
 
-|BaseplateProfileView|BaseplatePlanView|
+|XY-plane|XZ-plane|
 |:---:|:---:|
 |![BaseplatePlanView.png](./Images/Body-AdditivePipe/BaseplatePlanView.png)|![BaseplateProfileView.png](./Images/Body-AdditivePipe/BaseplateProfileView.png)|
 
@@ -53,7 +53,7 @@
 
 ![MagnetBase_003.png](./Images/Body-AdditivePipe/MagnetBase_003.png)
 
-|FootSketch|MagnetHoleSketch|
+|XY-plane FootSketch|XY-plane MagnetHoleSketch|
 |:---:|:---:|
 |![MagnetBase_001.png](./Images/Body-AdditivePipe/MagnetBase_001.png)|![MagnetBase_02.png](./Images/Body-AdditivePipe/MagnetBase_02.png)|
 
