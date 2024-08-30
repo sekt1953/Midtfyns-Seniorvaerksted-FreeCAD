@@ -11,18 +11,19 @@
 |A|B|C|D|
 |:---|:---|:---:|:---:|
 |**Alias**|**Content**||**Display unit**|
+|**Base:**||||
 |GridfinityBaseWidth|42||mm|
 |BaseAdditivePipeWidth|2,85||mm|
 |BaseAdditivePipeRadius|4||mm|
-| ||||
+|**Magnet:**||||
 |MagnetDiameter|6||mm|
 |MagnetTicknes|2||mm|
 |MagnetCenterDistance||Calculated|mm|
 |MagnetOuterRingDiameter||Calculated|mm|
-| ||||
+|**Grids:**||||
 |NumberGridX|1||mm|
 |NumberGridY|2||mm|
-| ||||
+|**Bin**||||
 |BinSquaresX|2|||
 |BinSquaresY|2|||
 |BinHeight|75||mm|
