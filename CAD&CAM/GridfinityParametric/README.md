@@ -21,16 +21,6 @@
 |MagnetTicknes|2||mm|
 |MagnetCenterDistance||Calculated|mm|
 |MagnetOuterRingDiameter||Calculated|mm|
-|**Grids:**||||
-|NumberGridX|1||mm|
-|NumberGridY|2||mm|
-|**Bins:**||||
-|BinSquaresX|2|||
-|BinSquaresY|2|||
-|BinHeight|75||mm|
-|BinDepth|=BinHeight - 1|Calculated|mm|
-|BinX|=41.5 + (BinSquaresX - 1) * 42|Calculated|mm|
-|BinY|=41.5 + (BinSquaresY - 1) * 42|Calculated|mm|
 
 ### AdditivePipe
 
@@ -42,7 +32,7 @@
 
 ||||
 |:---:|:---:|:---:|
-|![](./Images/Body-AdditivePipe/MagnetBase_001.png)|![](./Images/Body-AdditivePipe/MagnetBase_002.png)|![]()|
+|![](./Images/Body-AdditivePipe/MagnetBase_001.png)|![](./Images/Body-AdditivePipe/MagnetBase_02.png)|![](./Images/Body-AdditivePipe/MagnetBase_003.png)|
 
 |a|b|
 |:---:|:---:|
@@ -54,3 +44,20 @@
 |BaseplateProfileView|BaseplatePlanView|SubtractivePipe|
 |:---:|:---:|:---:|
 ||||
+
+## Grids
+
+### Spreadsheet Cell properties
+
+|A|B|C|D|
+|:---|:---|:---:|:---:|
+|**Grids:**||||
+|NumberGridX|1||mm|
+|NumberGridY|2||mm|
+|**Bins:**||||
+|BinSquaresX|2|||
+|BinSquaresY|2|||
+|BinHeight|75||mm|
+|BinDepth|=BinHeight - 1|Calculated|mm|
+|BinX|=41.5 + (BinSquaresX - 1) * 42|Calculated|mm|
+|BinY|=41.5 + (BinSquaresY - 1) * 42|Calculated|mm|
