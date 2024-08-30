@@ -10,7 +10,7 @@
 
 |A|B|C|D|
 |:---|:---|:---:|:---:|
-|Alias|Content||Display unit|
+|**Alias**|**Content**||**Display unit**|
 |GridfinityBaseWidth|42||mm|
 |BaseAdditivePipeWidth|2,85||mm|
 |BaseAdditivePipeRadius|4||mm|
