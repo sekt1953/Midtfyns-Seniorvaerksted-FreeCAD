@@ -17,6 +17,7 @@
 |BaseAdditivePipeRadius|4||mm|
 |**Magnet:**||||
 |MagnetDiameter|6||mm|
+|MagnetHole|=MagnetDiameter + 0.5|Calculated|mm|
 |MagnetTicknes|2||mm|
 |MagnetCenterDistance||Calculated|mm|
 |MagnetOuterRingDiameter||Calculated|mm|
@@ -37,9 +38,11 @@
 |:---:|:---:|:---:|
 |![BaseplateProfileView.png](./Images/Body-AdditivePipe/BaseplateProfileView.png)|![BaseplatePlanView.png](./Images/Body-AdditivePipe/BaseplatePlanView.png)|![](./Images/Body-AdditivePipe/AdditivePipe.png)|
 
-|![]()|![]()|![]()|
+### MagnetBase
 
-
+||||
+|:---:|:---:|:---:|
+|![](./Images/Body-AdditivePipe/MagnetBase_001.png)|![](./Images/Body-AdditivePipe/MagnetBase_002.png)|![]()|
 
 |a|b|
 |:---:|:---:|
@@ -47,3 +50,7 @@
 
 
 ### Body-SubtractivePipe
+
+|BaseplateProfileView|BaseplatePlanView|SubtractivePipe|
+|:---:|:---:|:---:|
+||||
