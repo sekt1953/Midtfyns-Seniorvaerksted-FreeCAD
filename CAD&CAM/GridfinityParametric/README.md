@@ -4,9 +4,9 @@
   * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification)
   * [Gridfinity Refined](https://www.printables.com/model/413761-gridfinity-refined)
 
-## Body-AdditivePipe
+## Base-AdditivePipe
 
-### Spreadsheet Cell properties
+### AdditivePipe Spreadsheet Cell properties
 
 |A|B|C|D|
 |:---|:---|:---:|:---:|
@@ -17,10 +17,12 @@
 |BaseAdditivePipeRadius|4||mm|
 |**Magnet:**||||
 |MagnetDiameter|6||mm|
-|MagnetHole|=MagnetDiameter + 0.5|Calculated|mm|
+|MagnetHoleDiameter|=MagnetDiameter + 0.5|Calculated|mm|
+|MagnetOuterRingDiameter|=MagnetHoleDiameter + 2|Calculated|mm|
 |MagnetTicknes|2||mm|
-|MagnetCenterDistance||Calculated|mm|
-|MagnetOuterRingDiameter||Calculated|mm|
+|MagnetHoleDepth|=MagnetTicknes + 0.5|Calculated|mm|
+|MagnetCenterDistance|=GridfinityBaseWidth - BaseAdditivePipeRadius - MagnetHoleDiameter|Calculated|mm|
+|MagnetPadLength|=MagnetHoleDepth + 0.5|Calculated|mm|
 
 ### AdditivePipe
 
@@ -32,14 +34,11 @@
 
 ||||
 |:---:|:---:|:---:|
-|![](./Images/Body-AdditivePipe/MagnetBase_001.png)|![](./Images/Body-AdditivePipe/MagnetBase_02.png)|![](./Images/Body-AdditivePipe/MagnetBase_003.png)|
+|![MagnetBase_001.png](./Images/Body-AdditivePipe/MagnetBase_001.png)|![MagnetBase_02.png](./Images/Body-AdditivePipe/MagnetBase_02.png)|![MagnetBase_003.png](./Images/Body-AdditivePipe/MagnetBase_003.png)|
 
-|a|b|
-|:---:|:---:|
-|![]()|![]()|
+## Base-SubtractivePipe
 
-
-### Body-SubtractivePipe
+### SubtractivePipe Spreadsheet Cell properties
 
 |BaseplateProfileView|BaseplatePlanView|SubtractivePipe|
 |:---:|:---:|:---:|
@@ -48,6 +47,12 @@
 ## Grids
 
 ### Spreadsheet Cell properties
+
+|A|B|C|D|
+|:---|:---|:---:|:---:|
+||||
+
+## Bins
 
 |A|B|C|D|
 |:---|:---|:---:|:---:|
