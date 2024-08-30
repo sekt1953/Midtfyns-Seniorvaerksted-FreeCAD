@@ -31,7 +31,7 @@
 |MagnetOuterRingDiameter|=MagnetHoleDiameter + 2.00|mm|Calculated|
 |MagnetTicknes|2.00|mm||
 |MagnetHoleDepth|=MagnetTicknes + 0.50|mm|Calculated|
-|MagnetCenterDistance|=GridfinityBaseWidth - BaseAdditivePipeRadius - MagnetHoleDiameter|mm|Calculated|
+|MagnetCenterDistance|=GridfinityBaseWidth - (BaseAdditivePipeRadius * 2) - MagnetHoleDiameter|mm|Calculated|
 |MagnetPadLength|=MagnetHoleDepth + 0.50|mm|Calculated|
 
 ### AdditivePipe
