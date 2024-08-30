@@ -1,12 +1,17 @@
 # GridfinityParametric
 
 * Kilde:
-  * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification)
-  * [Gridfinity Refined](https://www.printables.com/model/413761-gridfinity-refined)
+  * [Zack Freedman](https://www.youtube.com/@ZackFreedman)
+    * [Gridfinity is an invention of Zack Freedman, which he introduced in a YouTube video Apr 12, 2022.](https://www.youtube.com/watch?v=ra_9zU-mnl8)
+  * [grizzie17](https://www.printables.com/@grizzie17)
+    * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification)
+    * [Gridfinity Refined](https://www.printables.com/model/413761-gridfinity-refined)
 * Opgave Filer:
-  * [GridfinityParametric Base-Spreadsheet](./)
-  * [GridfinityParametric Base-AdditivePipe](./)
-  * [GridfinityParametric Base-SubtractivePipe](./)
+  * Base:
+    * [1. Base-Spreadsheet](./)
+    * [2. Base-AdditivePipe](./)
+    * [3. Base-SubtractivePipe](./)
+  * Bins:
 
 ## Base-AdditivePipe
 
