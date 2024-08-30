@@ -14,15 +14,15 @@
 |GridfinityBaseWidth|42||mm|
 |BaseAdditivePipeWidth|2,85||mm|
 |BaseAdditivePipeRadius|4||mm|
-|||||
+| ||||
 |MagnetDiameter|6||mm|
 |MagnetTicknes|2||mm|
 |MagnetCenterDistance||Calculated|mm|
 |MagnetOuterRingDiameter||Calculated|mm|
-|||||
+| ||||
 |NumberGridX|1||mm|
 |NumberGridY|2||mm|
-|||||
+| ||||
 |BinSquaresX|2|||
 |BinSquaresY|2|||
 |BinHeight|75||mm|
