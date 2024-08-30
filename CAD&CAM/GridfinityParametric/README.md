@@ -32,7 +32,7 @@
 |BaseAdditivePipeFoot|0.70|mm||
 |BaseAdditivePipeHeigt|=BaseAdditivePipeHead + BaseAdditivePipeBody + BaseAdditivePipeFoot|mm|Calculated|
 |BaseAdditiveAngle|90.00|deg||
-|**Magnet:**||||
+|**MagnetFoot:**||||
 |MagnetDiameter|6.00|mm||
 |MagnetHoleDiameter|=MagnetDiameter + 0.50|mm|Calculated|
 |MagnetOuterRingDiameter|=MagnetHoleDiameter + 2.00|mm|Calculated|
@@ -47,7 +47,7 @@
 |:---:|:---:|:---:|
 |![BaseplatePlanView.png](./Images/Body-AdditivePipe/BaseplatePlanView.png)|![BaseplateProfileView.png](./Images/Body-AdditivePipe/BaseplateProfileView.png)|![](./Images/Body-AdditivePipe/AdditivePipe.png)|
 
-### MagnetBase
+### MagnetFoot
 
 ||||
 |:---:|:---:|:---:|
