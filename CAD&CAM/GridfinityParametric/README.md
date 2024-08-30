@@ -3,6 +3,10 @@
 * Kilde:
   * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification)
   * [Gridfinity Refined](https://www.printables.com/model/413761-gridfinity-refined)
+* Opgave Filer:
+  * [GridfinityParametric Base-Spreadsheet](./)
+  * [GridfinityParametric Base-AdditivePipe](./)
+  * [GridfinityParametric Base-SubtractivePipe](./)
 
 ## Base-AdditivePipe
 
