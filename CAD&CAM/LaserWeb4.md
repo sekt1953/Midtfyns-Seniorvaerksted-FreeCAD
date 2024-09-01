@@ -35,9 +35,6 @@ sudo apt install git
 Clone and build the latest lw.comm-server:
 
 ```code
-```
-
-```code
 cd /usr/local
 ```
 
