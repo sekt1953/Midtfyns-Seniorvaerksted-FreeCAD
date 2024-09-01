@@ -3,6 +3,11 @@
 * FreCAD weekly-builds:
   * Link 
     * [weekly-builds](https://github.com/FreeCAD/FreeCAD-Bundle/releases/tag/weekly-builds)
+* LaserWeb / CNCWeb 4.0 is an application for:
+  * Link:
+    * [Welcome to the LaserWeb/CNCWeb wiki!](https://github.com/LaserWeb/LaserWeb4/wiki)
+    * [1.3 Installation on Linux](https://github.com/LaserWeb/LaserWeb4/wiki/1.3-Installation-on-Linux)
+    * [tilpasset version](./LaserWeb4.md)
 * G-code RepRap:
   * [https://reprap.org/wiki/G-code](https://reprap.org/wiki/G-code)
 * Videos:
