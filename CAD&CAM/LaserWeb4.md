@@ -6,7 +6,11 @@
 Open the terminal window and enter:
 
 ```code
-sudo apt-get update && sudo apt install npm
+sudo apt-get update
+```
+
+```code
+sudo apt install npm
 ```
 
 You can verify that npm and node are installed then by entering the following:
