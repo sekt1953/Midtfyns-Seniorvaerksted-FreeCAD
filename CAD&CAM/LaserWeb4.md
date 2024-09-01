@@ -21,8 +21,10 @@ npm -v && node -v
 
 `The following were the version numbers returned at the time of this writing:
 
-npm - 8.5.1
-node - 12.22.9
+bruger@T450-2:~$ npm -v && node -v
+9.2.0
+v18.19.1
+bruger@T450-2:~$
 
 Then install Chromium by entering:
 
