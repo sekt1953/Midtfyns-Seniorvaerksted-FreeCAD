@@ -111,12 +111,18 @@ sudo usermod -a -G dialout <username>
 
 You should be able to launch LaserWeb fro the terminal then by entering:
 
+```code
 ./startlw.sh
+```
 
 You are ok to close the terminal if everything worked.
 
 You then can add an icon to your desktop by right clicking on the desktop and picking "Create a new launcher here" from the context menu.
 
-For name use: LaserWeb4 For command use: /usr/local/lw.comm-server/startlw.sh
+For name use: LaserWeb4 For command use:
+
+```code
+/usr/local/lw.comm-server/startlw.sh
+```
 
 If you want to change the desktop icon there is one included in usr/local/lw.comm-server/build/ folder.
