@@ -51,7 +51,11 @@ cd lw.comm-server
 ```
 
 ```code
-sudo npm audit fix && sudo npm install 
+sudo npm audit fix 
+```
+
+```code
+sudo npm install 
 ```
 
 You can then test that the sever is working with:
@@ -95,7 +99,6 @@ Then make the script executable and change the owner to your username (replace a
 
 ```code
 sudo chmod u+x startlw.sh
-```code
 ```
 
 ```code
