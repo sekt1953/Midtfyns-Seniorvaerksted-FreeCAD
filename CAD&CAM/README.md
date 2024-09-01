@@ -7,7 +7,7 @@
   * Link:
     * [Welcome to the LaserWeb/CNCWeb wiki!](https://github.com/LaserWeb/LaserWeb4/wiki)
     * [1.3 Installation on Linux](https://github.com/LaserWeb/LaserWeb4/wiki/1.3-Installation-on-Linux)
-    * [tilpasset version](./LaserWeb4.md)
+    * [Installation on Ububtu 24.04LTS](./LaserWeb4.md)
 * G-code RepRap:
   * [https://reprap.org/wiki/G-code](https://reprap.org/wiki/G-code)
 * Videos:

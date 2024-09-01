@@ -1,4 +1,4 @@
-# LaserWeb4 Linux installation:
+# LaserWeb4 Linux installation on Ubuntu 24.04LTS
 
 * Kilde:
   * [https://github.com/LaserWeb/LaserWeb4/wiki/1.3-Installation-on-Linux](https://github.com/LaserWeb/LaserWeb4/wiki/1.3-Installation-on-Linux)
